@@ -1,15 +1,15 @@
 <?php
 
-define("SERVIDOR", "localhost");
+/* define("SERVIDOR", "localhost");
 define("USUARIO", "elegipci_johen");
 define("PASSWORD", "Bl~*VS4_?R14");
-define("BASEDATOS", "elegipci_egipciov2");
+define("BASEDATOS", "elegipci_egipciov2"); */
 /*define("COSTOENVIO", $costoEnvio);*/
 
-/* define("SERVIDOR", "localhost");
+define("SERVIDOR", "localhost");
 define("USUARIO", "root");
 define("PASSWORD", "");
-define("BASEDATOS", "elegipcio"); */
+define("BASEDATOS", "fusionwings");
 
 /*DESARROLLO
 define("CULQI_SECRET_KEY", "sk_test_6f0dfb14c0b602c3");
