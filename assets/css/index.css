@@ -1,0 +1,63 @@
+.swiper-container {
+    width: 100%;
+}
+:root {
+    --swiper-theme-color: #ffffff;
+}
+.alertaCorreo {
+    right: 0%;
+    left: 0%;
+
+
+}
+
+.emailExiste {
+
+    border: none;
+    border-left: 4px solid #c28f37;
+    border-radius: 0;
+    background: #fff;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, .2);
+    color:#9C0001 !important ;
+}
+
+@media (min-width: 992px) {
+
+    .alertaCorreo {
+        right: 20%;
+        left: 16%;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 600px;
+    }
+}
+
+/* REESCRIBIENDO LOS ESTILOS POR DEFECTO DE SWEETALERT2 */
+.sweetOkButton {
+    background: #9C0001 !important;
+}
+
+.swal2-input {
+    text-align: center !important;
+}
+
+.swal2-image {
+    margin-top: -80px !important;
+}
+
+.swal2-styled.swal2-confirm {
+    background: #9C0001 !important;
+}
+
+.swal2-icon.swal2-success .swal2-success-ring {
+    border: .25em solid #9c0001 !important;
+}
+
+.swal2-icon.swal2-success [class^=swal2-success-line] {
+
+    background-color: #9c0001 !important;
+}
+
+.swal2-container.swal2-center {
+    z-index: 2002 !important;
+}

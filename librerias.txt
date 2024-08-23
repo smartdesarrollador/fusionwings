@@ -1,0 +1,8 @@
+librerias para el front End:
+
+video.js - Reproductor de video
+bootstrap - estilos
+SwiperSlider,OwlCarousel - Slider
+SweetAlert2 - Alertas
+Jquery
+animate.css - Animaciones

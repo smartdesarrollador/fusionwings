@@ -1,0 +1,14 @@
+# REMOVE WWW & FORCE HTTPS
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [OR]
+RewriteCond %{https} off
+RewriteRule ^(.*)$ https://elegipcio.pe/$1 [R=301,L]
+
+# REMOVE TRAILING SLASH
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [L,R=301] 
+
+# REMOVE PHP EXTENSION if there's no file with this name
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+)\.php$ /$1 [NC,L,R=301]
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+)/?$ /$1.php [END]

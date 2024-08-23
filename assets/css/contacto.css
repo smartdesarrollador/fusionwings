@@ -1,0 +1,98 @@
+
+h3.heading {
+    font-size: 40px !important;
+    text-transform: uppercase !important;
+    font-weight: 800 !important;
+    letter-spacing: 3px !important;
+}
+
+@media (max-width: 600px) {
+    h3.heading {
+        font-size: 36px;
+    }
+
+}
+
+@media (max-width: 414px) {
+    h3.heading {
+        font-size: 30px !important;
+
+    }
+}
+
+
+.w3layouts-contact-fm {
+    margin: 0 auto;
+    width: 80%;
+}
+
+
+.btn.submit {
+    background: #000000;
+    -moz-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+    color: #000;
+    padding: 0.9em 3em;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    letter-spacing: 2px;
+    font-weight: 600;
+    -moz-box-shadow: 1px 3px 8px 0 rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 1px 3px 8px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 1px 3px 8px 0 rgba(0, 0, 0, 0.15);
+}
+
+.form-group input {
+    outline: none;
+    padding: 16px 20px;
+    color: #333;
+    font-size: 14px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    width: 100%;
+    border: 1px solid #ddd;
+    text-align: center;
+    background: #F9FAFF;
+}
+
+.form-group textarea {
+    min-height: 19em;
+    border: 1px solid #ddd;
+    background: #F9FAFF;
+}
+
+.col-lg-6 {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+.form-group label {
+    font-size: 0.9em;
+    color: #666;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+}
+
+.map-w3layouts iframe {
+    min-height: 20em;
+    border: none;
+    background: #e8eaec;
+    padding: 0.4em;
+    width: 100%;
+}
+
+.form-group input {
+    outline: none;
+    padding: 16px 20px;
+    color: #333;
+    font-size: 14px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    width: 100%;
+    border: 1px solid #ddd;
+    text-align: center;
+    background: #F9FAFF;
+}

@@ -1,0 +1,41 @@
+{
+  "name": "El egipcio, shawarma,  falafel - comida árabe",
+  "short_name": "El egipcio",
+  "icons": [
+    {
+      "src": "icons/apple-touch-icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icons/apple-touch-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icons/apple-touch-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/apple-touch-icon-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "icons/apple-touch-icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "icons/apple-touch-icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "../elegipcio.php",
+  "display": "standalone",
+  "background_color": "#f4fe09",
+  "theme_color": "#9c0001",
+  "description": "El egipcio, shawarma,  falafel - comida árabe"
+}

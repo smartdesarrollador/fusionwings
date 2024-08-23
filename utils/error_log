@@ -1,0 +1,581 @@
+[27-Jun-2024 09:03:04 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 09:16:11 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 09:16:11 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 09:39:19 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:39:19 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 09:40:41 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:40:41 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 09:40:41 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:40:41 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 09:42:09 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:42:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 09:42:59 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:42:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 09:43:36 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:43:36 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 09:44:50 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:44:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 09:45:39 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:45:39 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 09:46:10 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:46:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 09:46:54 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:46:54 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 09:47:20 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[27-Jun-2024 09:47:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[27-Jun-2024 11:41:52 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:41:57 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:41:57 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:42:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:42:28 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:43:03 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:43:34 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:43:36 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:43:37 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:43:38 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:43:38 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:43:38 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:43:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:44:13 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:44:46 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:45:21 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:45:58 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:46:32 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:47:07 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:47:41 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:48:14 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:48:45 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:48:45 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:48:45 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:48:46 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:49:01 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:49:34 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:50:08 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:50:39 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:50:40 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:50:40 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:50:41 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:50:42 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:50:43 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:53:09 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:53:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:56:02 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:56:03 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:56:04 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:56:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:56:27 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:57:01 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:57:35 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:58:06 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:58:06 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:58:06 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:58:06 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:58:07 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 11:58:08 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:00:36 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:01:12 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:03:32 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:03:33 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:03:34 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:03:35 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:04:06 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:04:40 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:05:15 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:05:49 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:05:50 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:05:51 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:05:52 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:05:53 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:05:54 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:08:31 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:09:07 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:11:36 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:11:37 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:11:38 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:11:40 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:12:18 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:12:51 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:13:26 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:13:59 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:14:00 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:14:02 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:14:03 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:14:04 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:14:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:14:28 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:15:00 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:15:36 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:16:09 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:16:41 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:17:15 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:17:54 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:18:29 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:19:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:19:45 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:19:46 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:19:47 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:19:49 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:20:23 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:20:57 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:21:32 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:22:07 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:22:08 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:22:09 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:22:10 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:22:12 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:22:13 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:25:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:26:13 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:28:59 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:29:00 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:29:02 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:29:03 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:29:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:30:25 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:31:01 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:31:36 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:31:37 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:31:38 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:31:39 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:31:41 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:31:42 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:34:16 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:34:49 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:37:08 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:37:09 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:37:10 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:37:11 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:37:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:38:20 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:38:55 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:39:31 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:39:32 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:39:33 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:39:35 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:39:36 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:39:37 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:42:33 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:43:09 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:45:33 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:45:35 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:45:36 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[27-Jun-2024 12:45:37 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 15:47:50 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 15:52:53 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 15:53:24 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:24 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:24 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:24 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:25 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:25 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:25 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:25 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:31 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:58 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:58 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:58 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:59 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:59 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:59 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:59 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:53:59 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:53:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:00 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:00 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:00 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:00 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:00 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:02 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:02 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:02 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:02 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:32 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:32 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:32 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:32 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:33 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:33 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:33 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:33 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:33 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:33 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:34 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:34 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:34 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:34 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:34 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:34 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:34 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:34 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:35 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:41 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:41 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:42 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:42 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:43 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:43 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:43 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:43 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:43 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:43 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:43 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:43 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:54:44 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:54:44 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:14 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:30 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:30 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:30 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:30 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:30 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:31 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:46 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:46 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:48 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:48 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:48 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:48 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:55:48 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:55:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:56:00 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:56:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:56:00 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:56:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:56:00 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:56:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:56:00 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:56:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/elegipcio/public_html/class/Delivery.php on line 53
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 15
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:01 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 39
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  error_log(log/proyecto.log): Failed to open stream: No such file or directory in /home1/elegipcio/public_html/class/Delivery.php on line 59
+[17-Jul-2024 15:56:02 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: SELECT command denied to user 'elegipci_johen'@'localhost' for table 'user' in /home1/elegipcio/public_html/class/AccesoBD.class.php:27
+Stack trace:
+#0 /home1/elegipcio/public_html/class/AccesoBD.class.php(27): mysqli_query(Object(mysqli), '\r\n            S...')
+#1 /home1/elegipcio/public_html/class/Delivery.php(52): AccesoBD::Consultar(Object(mysqli), '\r\n            S...')
+#2 /home1/elegipcio/public_html/utils/setDeliveryZoneId.php(14): Delivery->getDeliveryZoneById('-1' OR (select/...')
+#3 {main}
+  thrown in /home1/elegipcio/public_html/class/AccesoBD.class.php on line 27
+[17-Jul-2024 15:56:02 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:09:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:10:41 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:10:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:10:47 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:06 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:12 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:30 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:33 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:35 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:38 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:47 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:50 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:11:53 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:04 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:04 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:04 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:26 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:29 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:32 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:42 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:45 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:45 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:45 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:48 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:12:48 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:13:23 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:13:26 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:13:43 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:13:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:13:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:13:45 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:14:03 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:14:06 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:14:09 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:14:19 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:14:20 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:14:20 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:14:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:14:43 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:14:43 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:15:10 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:15:13 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:15:34 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:15:34 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:15:34 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:15:34 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:15:37 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:18:02 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:18:05 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:18:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:18:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:18:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:18:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:18:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:18:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:18:50 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:18:53 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:31 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:31 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:31 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:31 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:31 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:33 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:36 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:49 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:50 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:50 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:50 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:50 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:19:50 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:00 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:09 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:12 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:18 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:24 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:27 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:33 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:35 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:41 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:44 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:20:51 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:21:01 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:21:04 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:21:07 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:21:07 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:21:07 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:21:07 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:21:07 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:21:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:21:50 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:00 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:19 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:19 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:19 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:19 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:22 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:25 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:35 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:38 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:38 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:38 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:38 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:39 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:22:39 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:23:23 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:23:26 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:23:43 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:23:43 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:23:43 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:23:43 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:01 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:04 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:07 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:10 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:17 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:17 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:17 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:17 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:17 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:54 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:24:57 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:25:15 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:25:16 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:25:16 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
+[17-Jul-2024 17:25:16 America/Chicago] PHP Warning:  Undefined array key "deliveryZone" in /home1/elegipcio/public_html/utils/setDeliveryZoneId.php on line 5
