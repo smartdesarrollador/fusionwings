@@ -19,4 +19,4 @@ $direccion= $_POST['direccion'];
 
 $objCliente->updateCustomerAllProfile($dni,$direccion,$telefono,$idCliente,$nacimiento,$apellido,$nombre);
 $_SESSION['message']='success';
-header('location:../egipcio-mi-cuenta.php?code=success');
+header('location:../fusionwings-mi-cuenta.php?code=success');

@@ -31,7 +31,7 @@ if (isset($_SESSION['current_customer_idCliente'], $_SESSION['current_customer_e
     exit();
 }
 if (count($cartItems) <= 0) {
-    header('location: egipcio-carta.php');
+    header('location: fusionwings-carta.php');
 }
 
 $saldoBilletera = round($cliente['saldoBilletera']);
@@ -53,7 +53,7 @@ if ($_SESSION['envio'] == 'recojo' || $_SESSION['solo_gift_cards'] == 'true') {
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - pagar</title>
+    <title>Fusion Wings - pagar</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/carrito.css">
     <script src="https://checkout.culqi.com/js/v3"></script>
@@ -199,7 +199,7 @@ if ($_SESSION['envio'] == 'recojo' || $_SESSION['solo_gift_cards'] == 'true') {
 
 
             <div class="row mt-4 mb-4">
-                <div class="col-6"><h4 class="text-egipcio">Observaciones / Programacion de pedido:</h4></div>
+                <div class="col-6"><h4 class="text-fusionwings">Observaciones / Programacion de pedido:</h4></div>
                 <div class="col-6">
                     <div class="form-group">
                         <textarea class="form-control mx-sm-3 mb-2 " id="mensaje"

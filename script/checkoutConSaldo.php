@@ -181,7 +181,7 @@ foreach ($cartItems as $item) {
 
                 <div style="border-bottom:1px solid #f2f3f5;padding:20px 30px">
 
-                    <img id="m_7479378229902740556logo" width="150" style="max-width:99px;display:block" src="https://elegipcio.pe/assets/img/logonegro.png" alt="Logo el Egipcio" class="CToWUd">
+                    <img id="m_7479378229902740556logo" width="150" style="max-width:99px;display:block" src="https://fusionwings.pe/assets/img/logonegro.png" alt="Logo Fusion Wings" class="CToWUd">
 
                 </div>
 
@@ -202,7 +202,7 @@ foreach ($cartItems as $item) {
                         </div>
 
                         <div style="background:#fff;font-size:16px;padding:15px">
-                            <img style="max-width:100%" src="https://elegipcio.pe/assets/img/promos/' . $item['imagenProducto'] . '" class="CToWUd a6T" tabindex="0">
+                            <img style="max-width:100%" src="https://fusionwings.pe/assets/img/promos/' . $item['imagenProducto'] . '" class="CToWUd a6T" tabindex="0">
                             <a style="display:inline-block;font-weight:bold;margin-top:10px;color:#505763;text-decoration:none"
                                 target="_blank" >' . $item['name'] . '</a>
 
@@ -210,7 +210,7 @@ foreach ($cartItems as $item) {
 
                         <div style="background:#fff;padding:10px">
                             <div>
-                                <a  style="padding:10px 15px;background:#ec5252;display:inline-block;border-radius:2px;color:#fff;font-weight:bold;font-size:17px;text-decoration:none" href="https://elegipcio.pe" target="_blank" >
+                                <a  style="padding:10px 15px;background:#ec5252;display:inline-block;border-radius:2px;color:#fff;font-weight:bold;font-size:17px;text-decoration:none" href="https://fusionwings.pe" target="_blank" >
                                     INICIA SESIÓN EN TU CUENTA
                                 </a>
                             </div>
@@ -218,7 +218,7 @@ foreach ($cartItems as $item) {
                                 <span style="display:inline-block;padding:10px 10px">O</span>
                             </div>
                             <div style="background:#fff;font-size:12px">
-                                Ve a <a href="https://elegipcio.pe">https://elegipcio.pe</a>
+                                Ve a <a href="https://fusionwings.pe">https://fusionwings.pe</a>
                             </div>
                         </div>
                         <div style="background:#fff;font-size:12px;padding:20px 0px 15px">
@@ -235,7 +235,7 @@ foreach ($cartItems as $item) {
             <div style="font:11px sans-serif;color:#686f7a">
                 <p style="font-size:11px;color:#686f7a">
 
-                    El Egipcio, Jr. Julio Cesar Tello 872 / 886 Lince, Lima - Perú.
+                    Fusion Wings, Jr. Julio Cesar Tello 872 / 886 Lince, Lima - Perú.
 
                 </p>
             </div>
@@ -249,7 +249,7 @@ foreach ($cartItems as $item) {
             $headers = "MIME-Version: 1.0" . "\r\n";
             $headers .= "Content-type: text/html; charset=UTF-8\r\n";
             /*CAMBIAR ESTE ENLACE*/
-            $headers .= 'From: El Egipcio - AVISOS<noreply@elegipcio.pe>' . "\r\n";
+            $headers .= 'From: Fusion Wings - AVISOS<noreply@fusionwings.pe>' . "\r\n";
             mail($to, $subject, $mensaje, $headers);
 
 
@@ -262,7 +262,7 @@ foreach ($cartItems as $item) {
 
             /*generando QR*/
             $idEncriptado = my_simple_crypt($idDestinatario);
-            $urlQR = 'https://elegipcio.pe/r.php?u=' . $idEncriptado;
+            $urlQR = 'https://fusionwings.pe/r.php?u=' . $idEncriptado;
             $nombreFoto = $idEncriptado . '.png';
 
             $apiQR = file_get_contents('https://worksafetytech.com/utils/qrGeneratorMaxSize.php?content=' . $urlQR);
@@ -270,7 +270,7 @@ foreach ($cartItems as $item) {
             $objCliente->updateClienteQR($idDestinatario, $nombreFoto);
             /*END*/
 
-            $urlConfigACcount = 'https://elegipcio.pe/r.php?c=' . $configAccountToken . '&id=' . $idDestinatario;
+            $urlConfigACcount = 'https://fusionwings.pe/r.php?c=' . $configAccountToken . '&id=' . $idDestinatario;
 
             $mensaje = '<div>
     <div style="background-color:#f2f3f5;padding:20px">
@@ -279,7 +279,7 @@ foreach ($cartItems as $item) {
 
                 <div style="border-bottom:1px solid #f2f3f5;padding:20px 30px">
 
-                    <img id="m_7479378229902740556logo" width="150" style="max-width:99px;display:block" src="https://elegipcio.pe/assets/img/logonegro.png" alt="Logo el Egipcio" class="CToWUd">
+                    <img id="m_7479378229902740556logo" width="150" style="max-width:99px;display:block" src="https://fusionwings.pe/assets/img/logonegro.png" alt="Logo Fusion Wings" class="CToWUd">
 
                 </div>
 
@@ -300,7 +300,7 @@ foreach ($cartItems as $item) {
                         </div>
 
                         <div style="background:#fff;font-size:16px;padding:15px">
-                            <img style="max-width:100%" src="https://elegipcio.pe/assets/img/promos/' . $item['imagenProducto'] . '" class="CToWUd a6T" tabindex="0">
+                            <img style="max-width:100%" src="https://fusionwings.pe/assets/img/promos/' . $item['imagenProducto'] . '" class="CToWUd a6T" tabindex="0">
                             <a style="display:inline-block;font-weight:bold;margin-top:10px;color:#505763;text-decoration:none"
                                 target="_blank" >' . $item['name'] . '</a>
 
@@ -332,7 +332,7 @@ foreach ($cartItems as $item) {
             <div style="font:11px sans-serif;color:#686f7a">
                 <p style="font-size:11px;color:#686f7a">
 
-                    El Egipcio, Jr. Julio Cesar Tello 872 / 886 Lince, Lima - Perú.
+                    Fusion Wings, Jr. Julio Cesar Tello 872 / 886 Lince, Lima - Perú.
 
                 </p>
             </div>
@@ -346,7 +346,7 @@ foreach ($cartItems as $item) {
             $headers = "MIME-Version: 1.0" . "\r\n";
             $headers .= "Content-type: text/html; charset=UTF-8\r\n";
             /*CAMBIAR ESTE ENLACE*/
-            $headers .= 'From: El Egipcio - AVISOS<noreply@elegipcio.pe>' . "\r\n";
+            $headers .= 'From: Fusion Wings - AVISOS<noreply@fusionwings.pe>' . "\r\n";
             mail($to, $subject, $mensaje, $headers);
 
         }
@@ -513,7 +513,7 @@ $mensaje = '<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
                                            class="col">
                                         <tbody>
                                         <tr>
-                                            <td align="left"><img src="http://elegipcio.pe/assets/img/navbar/logo.png" width="100"
+                                            <td align="left"><img src="http://fusionwings.pe/assets/img/navbar/logo.png" width="100"
                                                                   alt="logo" border="0"/></td>
                                         </tr>
                                         <tr class="hiddenMobile">
@@ -817,12 +817,12 @@ $mensaje = '<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     </tr>
 </table>';
 $to = "$email";
-$subject = "Su Orden - El Egipcio";
+$subject = "Su Orden - Fusion Wings";
 
 $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type: text/html; charset=UTF-8\r\n";
 /*CAMBIAR ESTE ENLACE*/
-$headers .= 'From: El Egipcio - AVISOS<noreply@elegipcio.pe>' . "\r\n";
+$headers .= 'From: Fusion Wings - AVISOS<noreply@fusionwings.pe>' . "\r\n";
 mail($to, $subject, $mensaje, $headers);
 
 

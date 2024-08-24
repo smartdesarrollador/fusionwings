@@ -57,7 +57,7 @@ if (isset($_SESSION['current_customer_idCliente'], $_SESSION['current_customer_e
     exit();
 }
 if (count($cartItems) <= 0) {
-    header('location: egipcio-carta.php');
+    header('location: fusionwings-carta.php');
 }
 
 $saldoBilletera = round($cliente['saldoBilletera']);
@@ -253,7 +253,7 @@ $formToken = $response["answer"]["formToken"];
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - pagar</title>
+    <title>Fusion Wings - pagar</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/carrito.css">
     <script src="https://checkout.culqi.com/js/v3"></script>
@@ -411,7 +411,7 @@ $formToken = $response["answer"]["formToken"];
 
                 <div class="row mt-4 mb-4">
                     <div class="col-6">
-                        <h4 class="text-egipcio">Observaciones / Programacion de pedido:</h4>
+                        <h4 class="text-fusionwings">Observaciones / Programacion de pedido:</h4>
                     </div>
                     <div class="col-6">
                         <div class="form-group">
@@ -724,7 +724,7 @@ $formToken = $response["answer"]["formToken"];
             <div class="modal-dialog" role="document">
                 <div class="modal-content" style="width:300px;">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel"><img src="assets/img/navbar/logo.png" style="width:50px"> El Egipcio</h5>
+                        <h5 class="modal-title" id="exampleModalLabel"><img src="assets/img/navbar/logo.png" style="width:50px"> Fusion Wings</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>

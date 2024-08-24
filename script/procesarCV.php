@@ -102,7 +102,7 @@ if ($_POST["action"] == "upload")
 
                     error_reporting( E_ALL );
 
-                    $to = "rafat@elegipcio.pe, bolsadetrabajo@elegipcio.pe";
+                    $to = "rafat@fusionwings.pe, bolsadetrabajo@fusionwings.pe";
                     $subject = "Nuevo Postulante";
                     $message ="Nuevo Postulante:<br><br>";
                     $message=$message."Nombre: ". $nombre ."<br>";
@@ -111,12 +111,12 @@ if ($_POST["action"] == "upload")
                     $message=$message."Correo: ". $edad ."<br>";
                     $message=$message."Celular: ". $cel ."<br>";
 
-                        $message=$message."<br>Descargar CV : <a href='https://www.elegipcio.pe/assets/cvs/".$random."'>'elegipcio.pe/cvs/".$random."</a>'";
+                        $message=$message."<br>Descargar CV : <a href='https://www.fusionwings.pe/assets/cvs/".$random."'>'fusionwings.pe/cvs/".$random."</a>'";
 
 /////
                           $headers = "MIME-Version: 1.0" . "\r\n";
                           $headers .= "Content-type: text/html; charset=UTF-8\r\n";
-                          $headers .= 'From: EL EGIPCIO - AVISOS<avisos@egipcio.pe>' . "\r\n";
+                          $headers .= 'From: Fusion Wings - AVISOS<avisos@fusionwings.pe>' . "\r\n";
                     
                     if(mail($to,$subject,$message, $headers)){
 

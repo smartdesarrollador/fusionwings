@@ -20,7 +20,7 @@
 <meta name="theme-color" content="#9c0001">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="Spanish">
-<meta name="author" content="elegipcio perú">
+<meta name="author" content="fusionwings perú">
 
 
 
@@ -35,9 +35,9 @@
 <!--    Barra de estado-->
 <meta name = "apple-mobile-web-app-status-bar-style" content = "black-translucent">
 
-<!--  Egipcio 12_05 -->
+<!--  fusionwings 12_05 -->
 <meta name="facebook-domain-verification" content="mcatmbw2ia2w9ort8hcabroaz3bk52" />
-<!-- /Egipcio 12_05-->
+<!-- /fusionwings 12_05-->
 
 
 

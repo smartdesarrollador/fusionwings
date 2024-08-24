@@ -37,12 +37,12 @@ if (isset($_POST['correo']) && isset($_POST['contrasena'])) {
             header("location:$ir");
 
         }else{
-            header("location:../elegipcio.php?code=incorrectPass");
+            header("location:../fusionwings.php?code=incorrectPass");
 
         }
 
     }else {
-        header("location:../elegipcio.php?code=notExistUser");
+        header("location:../fusionwings.php?code=notExistUser");
     }
 
 

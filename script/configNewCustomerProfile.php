@@ -3,7 +3,7 @@ session_start();
 error_reporting(0);
 if (isset($_POST['id'], $_POST['token'])) {
 } else {
-    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://elegipcio.pe";
+    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://fusionwings.pe";
     exit();
 }
 include "../class/ClienteClass.php";
@@ -12,12 +12,12 @@ $cliente = $objCliente->getClienteByIDAndConfigurationToken($_POST['id'], $_POST
 
 if ($cliente['configAccountToken'] != $_POST['token'] || $cliente['idCliente'] != $_POST['id']) {
 
-    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://elegipcio.pe";
+    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://fusionwings.pe";
     exit();
 }
 if ($cliente['cuentaConfigurada'] =='true' ) {
 
-    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://elegipcio.pe";
+    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://fusionwings.pe";
     exit();
 }
 
@@ -40,9 +40,9 @@ if ($objCliente->configNewCustomerProfile($cliente['idCliente'],$nombre,$celular
     /*    $_SESSION['current_customer_reputacion'] ='';*/
     $_SESSION['current_customer_puntos'] = 0;
 
-    header("location: ../egipcio-mi-cuenta.php?code=newCustomer");
+    header("location: ../fusionwings-mi-cuenta.php?code=newCustomer");
     exit();
 }else{
-    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://elegipcio.pe";
+    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://fusionwings.pe";
     exit();
 }

@@ -30,7 +30,7 @@ $listaClientes = $objCliente->getAllClients();
 
 
     $nombreFoto =  $idEncriptado.'.png';
-    $urlQR = 'https://elegipcio.pe/r.php?u='.$idEncriptado;
+    $urlQR = 'https://fusionwings.pe/r.php?u='.$idEncriptado;
 
  $apiQR = file_get_contents('https://worksafetytech.com/utils/qrGeneratorMaxSize.php?content=' . $urlQR);
 file_put_contents('assets/img/qrCodes/'.$nombreFoto, $apiQR);

@@ -39,7 +39,7 @@ $password = $_POST['password'];
 
 $customer = $objUser->getEmailCustomerByEmail($email);
 if (count($customer) > 0) {
-        header("location: ../elegipcio.php" . "?code=emailExiste");
+        header("location: ../fusionwings.php" . "?code=emailExiste");
         exit();
 } else {
     $encriptedPassword = password_hash($password . "" . $password[2], PASSWORD_DEFAULT, ['cost' => 10]);
@@ -50,7 +50,7 @@ if (count($customer) > 0) {
 
         /* creando el codigo qr para cada cliente*/
         $idEncriptado = my_simple_crypt($addNewCustomer);
-        $urlQR = 'https://elegipcio.pe/r.php?u=' . $idEncriptado;
+        $urlQR = 'https://fusionwings.pe/r.php?u=' . $idEncriptado;
         $nombreFoto = $idEncriptado . '.png';
 
         $apiQR = file_get_contents('https://worksafetytech.com/utils/qrGeneratorMaxSize.php?content=' . $urlQR);
@@ -82,8 +82,8 @@ if (count($customer) > 0) {
                     <td valign="top" align="left"
                         style="border-top-left-radius:4px;border-top-right-radius:4px; padding:10px 18px;text-align:center;background-color: #9C0001">
                         <img  width="125"
-                              src="https://elegipcio.pe/assets/img/navbar/logo.png"
-                              title="El elegipcio" style="font-weight:bold;font-size:18px;color:#fff;vertical-align:top"
+                              src="https://fusionwings.pe/assets/img/navbar/logo.png"
+                              title="Fusion Wings" style="font-weight:bold;font-size:18px;color:#fff;vertical-align:top"
                               class="CToWUd"></td>
                 </tr>
                 <tr width="100%">
@@ -95,12 +95,12 @@ if (count($customer) > 0) {
                             Ahora puedes hacer tus pedidos de forma fácil: </p>
                         <div style="background:#f6f7f8;border-radius:3px"><br>
 
-                            <p style="text-align:center"><a href="https://elegipcio.pe/egipcio-carta.php"
+                            <p style="text-align:center"><a href="https://fusionwings.pe/fusionwings-carta.php"
                                                             style="color:#9C0001;font:26px/1.25em \'Helvetica Neue\',Arial,Helvetica;text-decoration:none;font-weight:bold"
-                                                            target="_blank">elegipcio.pe</a></p>
+                                                            target="_blank">fusionwings.pe</a></p>
 
                             <p style="font:15px/1.25em \'Helvetica Neue\',Arial,Helvetica;margin-bottom:0;text-align:center">
-                                <a href="https://elegipcio.pe/egipcio-carta.php"
+                                <a href="https://fusionwings.pe/fusionwings-carta.php"
                                    style="border-radius:3px;background:#9C0001;color:#fff;display:block;font-weight:700;font-size:16px;line-height:1.25em;margin:24px auto 6px;padding:10px 18px;text-decoration:none;width:180px"
                                    target="_blank">Ir a la Carta</a></p>
 
@@ -111,7 +111,7 @@ if (count($customer) > 0) {
                         </p>
                         <p style="font:14px/1.25em \'Helvetica Neue\',Arial,Helvetica;color:#333;text-align: center">
                             Teléfono: +51 981-344-827 <br>
-                            Email: contactanos@elegipcio.pe
+                            Email: contactanos@fusionwings.pe
                         </p>
                         <p style="font:14px/1.25em \'Helvetica Neue\',Arial,Helvetica;color:#333;text-align: center">
                             Jr. Julio Cesar Tello 872 / 886 Lince, Lima - Perú
@@ -129,17 +129,17 @@ if (count($customer) > 0) {
 </table>';
 
         $to = "$email";
-        $subject = "Bienvenido - El Egipcio";
+        $subject = "Bienvenido - Fusion Wings";
 
         $headers = "MIME-Version: 1.0" . "\r\n";
         $headers .= "Content-type: text/html; charset=UTF-8\r\n";
         /*CAMBIAR ESTE ENLACE*/
-        $headers .= 'From: El Egipcio - AVISOS<noreply@elegipcio.pe>' . "\r\n";
+        $headers .= 'From: Fusion Wings - AVISOS<noreply@fusionwings.pe>' . "\r\n";
         mail($to, $subject, $mensaje, $headers);
 
         $ir = $_SERVER['HTTP_REFERER'];
         header("location:$ir");
-        /*header("location: ../elegipcio.php?code=success");*/
+        /*header("location: ../fusionwings.php?code=success");*/
 
 
     }

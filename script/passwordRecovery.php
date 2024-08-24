@@ -18,7 +18,7 @@ if (isset($_POST['lostEmail'])) {
 
     if ($cliente['cuentaConfigurada'] == 'false') {
 
-        $urlConfigACcount = 'https://elegipcio.pe/r.php?c=' . $cliente['configAccountToken'] . '&id=' . $cliente['idCliente'];
+        $urlConfigACcount = 'https://fusionwings.pe/r.php?c=' . $cliente['configAccountToken'] . '&id=' . $cliente['idCliente'];
 
         $mensaje = '<div>
     <div style="background-color:#f2f3f5;padding:20px">
@@ -27,7 +27,7 @@ if (isset($_POST['lostEmail'])) {
 
                 <div style="border-bottom:1px solid #f2f3f5;padding:20px 30px">
 
-                    <img id="m_7479378229902740556logo" width="150" style="max-width:99px;display:block" src="https://elegipcio.pe/assets/img/logonegro.png" alt="Logo el Egipcio" class="CToWUd">
+                    <img id="m_7479378229902740556logo" width="150" style="max-width:99px;display:block" src="https://fusionwings.pe/assets/img/logonegro.png" alt="Logo Fusion Wings" class="CToWUd">
 
                 </div>
 
@@ -66,7 +66,7 @@ if (isset($_POST['lostEmail'])) {
             <div style="font:11px sans-serif;color:#686f7a">
                 <p style="font-size:11px;color:#686f7a">
 
-                    El Egipcio, Jr. Julio Cesar Tello 872 / 886 Lince, Lima - Perú.
+                    Fusion Wings, Jr. Julio Cesar Tello 872 / 886 Lince, Lima - Perú.
 
                 </p>
             </div>
@@ -80,9 +80,9 @@ if (isset($_POST['lostEmail'])) {
         $headers = "MIME-Version: 1.0" . "\r\n";
         $headers .= "Content-type: text/html; charset=UTF-8\r\n";
         /*CAMBIAR ESTE ENLACE*/
-        $headers .= 'From: El Egipcio - AVISOS<noreply@elegipcio.pe>' . "\r\n";
+        $headers .= 'From: Fusion Wings - AVISOS<noreply@fusionwings.pe>' . "\r\n";
         mail($to, $subject, $mensaje, $headers);
-        header("location: ../elegipcio.php?code=sendResetMail");
+        header("location: ../fusionwings.php?code=sendResetMail");
         exit();
 
     }
@@ -94,7 +94,7 @@ if (isset($_POST['lostEmail'])) {
     if ($addedToken > 0) {
 
 
-        $url = 'https://elegipcio.pe/reset.php?mail=' . $lostEmail . '&tkn=' . $token;
+        $url = 'https://fusionwings.pe/reset.php?mail=' . $lostEmail . '&tkn=' . $token;
         $mensaje = "<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"
        style=\"color:#333;background:#fff;padding:0;margin:0;width:100%;font:15px/1.25em \'Helvetica Neue\',Arial,Helvetica\">
     <tbody>
@@ -106,8 +106,8 @@ if (isset($_POST['lostEmail'])) {
                     <td valign=\"top\" align=\"left\"
                         style=\"border-top-left-radius:4px;border-top-right-radius:4px; padding:10px 18px;text-align:center;background-color: #9C0001\">
                         <img  width=\"125\"
-                              src=\"https://elegipcio.pe/assets/img/navbar/logo.png\"
-                              title=\"El elegipcio\" style=\"font-weight:bold;font-size:18px;color:#fff;vertical-align:top\"
+                              src=\"https://fusionwings.pe/assets/img/navbar/logo.png\"
+                              title=\"Fusion Wings\" style=\"font-weight:bold;font-size:18px;color:#fff;vertical-align:top\"
                               class=\"CToWUd\"></td>
                 </tr>
                 <tr width=\"100%\">
@@ -134,7 +134,7 @@ if (isset($_POST['lostEmail'])) {
                         </p>
                         <p style=\"font:14px/1.25em 'Helvetica Neue',Arial,Helvetica;color:#333;text-align: center\">
                             Teléfono: +51 981-344-827 <br>
-                            Email: contactanos@elegipcio.pe
+                            Email: contactanos@fusionwings.pe
                         </p>
                         <p style=\"font:14px/1.25em 'Helvetica Neue',Arial,Helvetica;color:#333;text-align: center\">
                             Jr. Julio Cesar Tello 872 / 886 Lince, Lima - Perú
@@ -153,18 +153,18 @@ if (isset($_POST['lostEmail'])) {
 ";
 
         $to = "$lostEmail";
-        $subject = "Recupera tu Contraseña - El Egipcio";
+        $subject = "Recupera tu Contraseña - Fusion Wings";
 
         $headers = "MIME-Version: 1.0" . "\r\n";
         $headers .= "Content-type: text/html; charset=UTF-8\r\n";
         /*CAMBIAR ESTE ENLACE*/
-        $headers .= 'From: El Egipcio - AVISOS<noreply@elegipcio.pe>' . "\r\n";
+        $headers .= 'From: Fusion Wings - AVISOS<noreply@fusionwings.pe>' . "\r\n";
         mail($to, $subject, $mensaje, $headers);
 
-        header("location: ../elegipcio.php?code=sendResetMail");
+        header("location: ../fusionwings.php?code=sendResetMail");
 
     } else {
-        header("location:../elegipcio.php?code=notExistUser");
+        header("location:../fusionwings.php?code=notExistUser");
     }
 
 

@@ -14,7 +14,7 @@ RewriteRule ^(.+)\.php$ /$1 [NC,L,R=301]
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.+)/?$ /$1.php [END]
 RewriteCond %{HTTP_HOST} ^.*$
-RewriteRule ^elegipcio\.php$ "https\:\/\/elegipcio\.pe\/egipcio\-carta\.php" [R=301,L]
+RewriteRule ^fusionwings\.php$ "https\:\/\/fusionwings\.pe\/fusionwings\-carta\.php" [R=301,L]
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php74” package as the default “PHP” programming language.

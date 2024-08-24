@@ -55,9 +55,9 @@ if (isset($_POST['submit_libro'])) {
 
 
 
-        $to = "libroreclamaciones@elegipcio.pe";
+        $to = "libroreclamaciones@fusionwings.pe";
         $subject = "Mensaje Libro reclamaciones - Cliente ".$nombres;
-        $message = "Libro de reclamaciones web elegipcio.pe:<br><br>";
+        $message = "Libro de reclamaciones web fusionwings.pe:<br><br>";
         $message = $message . "<p style=' border: 2px solid #000000; border-radius: 3px;display: inline-block; padding: 10px 10px 10px 10px;;
         position: relative; '>" . $mensaje . "</p><br><br>";
 
@@ -74,7 +74,7 @@ if (isset($_POST['submit_libro'])) {
 /////
         $headers = "MIME-Version: 1.0" . "\r\n";
         $headers .= "Content-type: text/html; charset=UTF-8\r\n";
-        $headers .= 'From: Elegipcio Libro Reclamaciones <noreply@elegipcio.pe>' . "\r\n";
+        $headers .= 'From: Fusion Wings Libro Reclamaciones <noreply@fusionwings.pe>' . "\r\n";
 
         if (mail($to, $subject, $message, $headers)) {
 

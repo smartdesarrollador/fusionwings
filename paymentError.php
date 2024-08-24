@@ -8,7 +8,7 @@ session_start();
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Error en el pago :(</title>
+    <title>Fusion Wings - Error en el pago :(</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
 </head>
@@ -35,7 +35,7 @@ session_start();
 
     <div class="row mt-5">
         <div class="col text-center">
-            <a href="egipcio-carta.php" class="btn btn-secondary">Volver a la carta</a>
+            <a href="fusionwings-carta.php" class="btn btn-secondary">Volver a la carta</a>
         </div>
     </div>
 

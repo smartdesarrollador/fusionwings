@@ -46,7 +46,7 @@ $destino ='../assets/img/promos/'.$nombreFoto;
     if (copy($_FILES['foto']['tmp_name'], $destino)) {
         $affectedRows = $objProducto->addNewProducto($nombreProducto,$descripcionProducto,$nombreFoto,$tipoProducto,$precioProducto,$puntosProducto,$storeId);
         if ($affectedRows>0){
-            header('location: https://operaciones.elegipcio.pe/productos?code=success');
+            header('location: https://operaciones.fusionwings.pe/productos?code=success');
         }else{
             echo "Error inesperado, contacte con el administrador";
         }

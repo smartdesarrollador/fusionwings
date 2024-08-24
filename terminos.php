@@ -9,7 +9,7 @@ $page = 'reparto';
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Zona de Reparto</title>
+    <title>Fusion Wings - Zona de Reparto</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
 </head>
@@ -54,7 +54,7 @@ $page = 'reparto';
         <div class="col">
             <p><strong>POLÍTICA DE PRIVACIDAD</strong></p>
             <p>&nbsp;</p>
-            <p>El presente Política de Privacidad establece los términos en que El Egipcio usa y protege la información
+            <p>El presente Política de Privacidad establece los términos en que Fusion Wings usa y protege la información
                 que es proporcionada por sus usuarios al momento de utilizar su sitio web. Esta compañía está
                 comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de
                 información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se
@@ -73,7 +73,7 @@ $page = 'reparto';
                 través de nuestro sitio con ofertas especiales, nuevos productos y otra información publicitaria que
                 consideremos relevante para usted o que pueda brindarle algún beneficio, estos correos electrónicos
                 serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.</p>
-            <p>El Egipcio está altamente comprometido para cumplir con el compromiso de mantener su información segura.
+            <p>Fusion Wings está altamente comprometido para cumplir con el compromiso de mantener su información segura.
                 Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista
                 ningún acceso no autorizado.</p>
             <p><strong>Cookies</strong></p>
@@ -105,7 +105,7 @@ $page = 'reparto';
                 cancelarla en cualquier momento.</p>
             <p>Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su
                 consentimiento, salvo que sea requerido por un juez con un orden judicial.</p>
-            <p>El Egipcio Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en
+            <p>Fusion Wings Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en
                 cualquier momento.</p>
 
         </div>

@@ -1,7 +1,7 @@
 # REMOVE WWW & FORCE HTTPS
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [OR]
 RewriteCond %{https} off
-RewriteRule ^(.*)$ https://elegipcio.pe/$1 [R=301,L]
+RewriteRule ^(.*)$ https://fusionwings.pe/$1 [R=301,L]
 
 # REMOVE TRAILING SLASH
 RewriteCond %{REQUEST_FILENAME} !-d

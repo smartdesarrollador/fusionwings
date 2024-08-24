@@ -17,7 +17,7 @@ $userExist = $objUser->getUserByAccountRecoveryTokenAndEmail($tkn, $email);
         $isChanged = $objUser->changeUserPasswordByRecoveryToken($tkn, $email, $encriptedPassword);
 
         if ($isChanged>0){
-            header('location: ../elegipcio.php?code=passChanged');
+            header('location: ../fusionwings.php?code=passChanged');
         }else{
             echo "Ocurrió un error al cambiar la contraseña";
 

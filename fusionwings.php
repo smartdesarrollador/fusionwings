@@ -8,17 +8,17 @@ $page = 'inicio';
 <html lang="en">
 
 <head>
-    <title>El egipcio, shawarma, falafel - comida árabe</title>
+    <title>Fusion Wings, shawarma, falafel - comida árabe</title>
     <?php include "shared/libraries.php"; ?>
     <script src="assets/js/registerWorker.js"></script>
     <link rel="stylesheet" href="vendor/swiper/swiper.min.css">
     <link rel="stylesheet" href="vendor/videojs/video-js.css">
     <link rel="stylesheet" href="vendor/videojs/cityVideoJs.css">
-    <meta name="title" content="El egipcio, shawarma,  falafel - comida árabe">
-    <meta name="description" content="Shawarma El Egipcio te trae toda la experiencia de la cocina árabe a tu mesa. Aléjate de la monotonía, ven y prueba de la gran variedad de productos que tenemos para ti. Somos pioneros en comida de origen árabe en el Perú">
-    <meta name="keywords" content="el egipcio, shawarma lima, falafel lima, shawarma el egipcio lima, comida arabe lima, shawerma lima, shawarma y falafel, bowl,vegetariano,vegano,elegipcio,
-    elegipciolima,elegipcio lince, shawarma bowl, shawerma bowl">
-    <meta property="og:image" content="https://elegipcio.pe/assets/img/OpenGraph/logoGrandeOG.png" />
+    <meta name="title" content="Fusion Wings, shawarma,  falafel - comida árabe">
+    <meta name="description" content="Shawarma Fusion Wings te trae toda la experiencia de la cocina árabe a tu mesa. Aléjate de la monotonía, ven y prueba de la gran variedad de productos que tenemos para ti. Somos pioneros en comida de origen árabe en el Perú">
+    <meta name="keywords" content="Fusion Wings, shawarma lima, falafel lima, shawarma Fusion Wings lima, comida arabe lima, shawerma lima, shawarma y falafel, bowl,vegetariano,vegano,fusionwings,
+    fusionwingslima,fusionwings lince, shawarma bowl, shawerma bowl">
+    <meta property="og:image" content="https://fusionwings.pe/assets/img/OpenGraph/logoGrandeOG.png" />
 
 
     <link rel="stylesheet" href="assets/css/index.css">
@@ -105,7 +105,7 @@ $page = 'inicio';
             <div class="swiper-wrapper">
                 <!-- Slides -->
                <!--  <div class="swiper-slide">
-                    <a href="egipcio-carta.php">
+                    <a href="fusionwings-carta.php">
                         <img class="img-fluid d-none d-md-block" src="assets/img/index/BANNER-DELIVERY-GRATIS.jpg" alt="">
                         <img class="img-fluid d-block d-md-none" src="assets/img/index/banner-movil.jpg" alt=""> 
                        
@@ -114,7 +114,7 @@ $page = 'inicio';
                 </div> -->
 
                 <div class="swiper-slide">
-                    <a href="egipcio-carta.php">
+                    <a href="fusionwings-carta.php">
                         <img class="img-fluid d-none d-md-block" src="assets/img/index/banner3horizontal.jpg" alt="">
                         <img class="img-fluid d-block d-md-none" src="assets/img/index/movil-3.jpg" alt="">
 
@@ -122,7 +122,7 @@ $page = 'inicio';
                     </a>
                 </div>
                 <!--    <div class="swiper-slide">
-                    <a href="egipcio-carta.php">
+                    <a href="fusionwings-carta.php">
                         <img class="img-fluid d-none d-md-block" src="assets/img/index/banner-de-descuento.jpg" alt=""> 
                         <img class="img-fluid d-block d-md-none" src="assets/img/index/BANNER_MOVIL_4.jpg" alt="">
 
@@ -130,7 +130,7 @@ $page = 'inicio';
                     </a>
                 </div> -->
                 <!--       <div class="swiper-slide">
-                    <a href="egipcio-carta.php">
+                    <a href="fusionwings-carta.php">
                         <img class="img-fluid d-none d-md-block" src="assets/img/index/BANNER_5.jpg" alt="">
                         <img class="img-fluid d-block d-md-none" src="assets/img/index/BANNER_MOVIL_5.jpg" alt="">
                     </a>
@@ -148,13 +148,13 @@ $page = 'inicio';
 
         <div class="row mb-3">
             <div class="col">
-                <h2 class="titulo">EL EGIPCIO</h2>
+                <h2 class="titulo">Fusion Wings</h2>
 
             </div>
         </div>
         <div class="row mx-0 px-0 my-5">
             <div class="col-sm-12 col-sm-12 text-center mx-0 px-0">
-                <a href="egipcio-carta.php" class="btn btn-danger bg-danger text-white font-weight-bolder">
+                <a href="fusionwings-carta.php" class="btn btn-danger bg-danger text-white font-weight-bolder">
                     <h3>ORDENA AQUÍ</h3>
                 </a>
             </div>
@@ -169,14 +169,7 @@ $page = 'inicio';
         </div>
         <div class="row mb-5">
             <div class="col">
-                <!-- <video style="width: 100%" id="my-video" class="video-js vjs-theme-city" controls preload="auto" height="400" poster="assets/img/logo-grande.png" data-setup="{}">
-                    <source src="assets/videos/video_elegipcio.mp4" type="video/mp4" />
-                    <p class="vjs-no-js">
-                        To view this video please enable JavaScript, and consider upgrading to a
-                        web browser that
-                        <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
-                    </p>
-                </video> -->
+               
                 <iframe style="width: 100%" src="https://www.google.com/maps/d/embed?mid=12Xsx08UCym6oC2_5SNNJ7Z4Ye1AohUU&hl=es-419&ehbc=2E312F" height="580"></iframe>
             </div>
         </div>
@@ -184,10 +177,10 @@ $page = 'inicio';
     <!--redes sociales a la derecha-->
     <div class="social">
         <ul>
-            <li><a style="padding: 22px " href="https://www.facebook.com/elegipcio.pe" target="_blank" class="icon-facebook">
+            <li><a style="padding: 22px " href="https://www.facebook.com/fusionwings.pe" target="_blank" class="icon-facebook">
                     <i class="fa fa-facebook" aria-hidden="true"></i>
                 </a></li>
-            <li><a href="https://www.instagram.com/elegipcio.pe/" target="_blank" class="icon-instagram">
+            <li><a href="https://www.instagram.com/fusionwings.pe/" target="_blank" class="icon-instagram">
                     <i class="fa fa-instagram" aria-hidden="true"></i>
                 </a></li>
             <!-- <li>
@@ -212,7 +205,7 @@ $page = 'inicio';
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center m-3" style="color: red;">
-                <h3>¿Por qué comprar en elegipcio.pe?</h3>
+                <h3>¿Por qué comprar en fusionwings.pe?</h3>
             </div>
 
             <div class="col-md-4 mb-3"><img src="assets/tarjetas/icon-1.png" alt=""></div>

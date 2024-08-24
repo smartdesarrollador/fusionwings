@@ -31,7 +31,7 @@ if ($idPedidoRecibido == $pedido['idPedido'] && $tokenRecibido == $pedido['feedB
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Feedback</title>
+    <title>Fusion Wings - Feedback</title>
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/navBar.css">
     <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
@@ -42,7 +42,7 @@ if ($idPedidoRecibido == $pedido['idPedido'] && $tokenRecibido == $pedido['feedB
 <div class="container main-container animated fadeIn slow mb-5">
     <div class="row mb-3">
         <div class="col">
-            <h3 class="text-egipcio text-center">Ayúdanos a seguir mejorando <i class="fa fa-thumbs-o-up"
+            <h3 class="text-fusionwings text-center">Ayúdanos a seguir mejorando <i class="fa fa-thumbs-o-up"
                                                                                 aria-hidden="true"></i></h3>
         </div>
     </div>
@@ -503,7 +503,7 @@ if ($idPedidoRecibido == $pedido['idPedido'] && $tokenRecibido == $pedido['feedB
                 type: "post",
                 data: datos,
                 beforeSend: function () {
-                    $("#vista").html('<div class="spinner-border text-egipcio" style="width: 3rem; height: 3rem;" role="status">\n' +
+                    $("#vista").html('<div class="spinner-border text-fusionwings" style="width: 3rem; height: 3rem;" role="status">\n' +
                         '  <span class="sr-only">Loading...</span>\n' +
                         '</div>');
                     $('#button').attr("disabled", true);

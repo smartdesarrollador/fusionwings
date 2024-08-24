@@ -3,20 +3,20 @@ require_once 'vendor/autoload.php';
 error_reporting(0);
 $appId = '824113894745455'; //Identificador de la Aplicación
 $appSecret = 'e6199f85761648d8e32c21eb009a2650'; //Clave secreta de la aplicación
-/*$redirectURL = 'https://elegipcio.pe/script/fbConfig.php'; //Callback URL*/
+/*$redirectURL = 'https://fusionwings.pe/script/fbConfig.php'; //Callback URL*/
 if (isset($page)) {
 
     if ($page == 'carrito') {
-        $redirectURL = 'https://elegipcio.pe/script/fbConfig.php?redirect=carrito'; //Callback URL
+        $redirectURL = 'https://fusionwings.pe/script/fbConfig.php?redirect=carrito'; //Callback URL
     } elseif ($page == 'inicio') {
-        $redirectURL = 'https://elegipcio.pe/script/fbConfig.php'; //Callback URL
+        $redirectURL = 'https://fusionwings.pe/script/fbConfig.php'; //Callback URL
     } else {
-        $redirectURL = 'https://elegipcio.pe/script/fbConfig.php'; //Callback URL
+        $redirectURL = 'https://fusionwings.pe/script/fbConfig.php'; //Callback URL
     }
 
 } else {
 
-    $redirectURL = 'https://elegipcio.pe/script/fbConfig.php'; //Callback URL
+    $redirectURL = 'https://fusionwings.pe/script/fbConfig.php'; //Callback URL
 }
 
 $fbPermissions = array('');  //Permisos opcionales
@@ -191,7 +191,7 @@ $loginUrl = $helper->getLoginUrl($redirectURL, $permissions);
            class="p-2 d-block d-sm-block d-md-block d-lg-none d-xl-none">
             <img style="width: 50px; height: 50px" src="assets/img/icons/icono-de-ubicacion.png" alt="">
         </a>
-        <a onclick="mostrarLoading()" href="egipcio-pago.php"
+        <a onclick="mostrarLoading()" href="fusionwings-pago.php"
            class="p-2 d-block d-sm-block d-md-block d-lg-none d-xl-none">
             <img style="width: 50px; height: 50px" src="assets/img/navbar/comprar-mobile.png" alt="">
         </a>
@@ -205,7 +205,7 @@ $loginUrl = $helper->getLoginUrl($redirectURL, $permissions);
 
            <div  class="p-2 d-block d-sm-block d-md-block d-lg-none d-xl-none" >
                <a href="javascript:;" data-toggle="modal"
-                  data-target="#login-modal" class="btn bg-egipcio-yellow text-egipcio">
+                  data-target="#login-modal" class="btn bg-fusionwings-yellow text-fusionwings">
                    <i class="fa fa-user mr-1" aria-hidden="true"></i> <br>
                    INGRESAR
                </a>
@@ -220,48 +220,48 @@ $loginUrl = $helper->getLoginUrl($redirectURL, $permissions);
                     <img style="width: 50px; height: 50px" src="assets/img/navbar/usuario.png" alt="">
                 </a>
                 <div class="dropdown-menu">
-                    <h6 class="dropdown-header text-egipcio">
+                    <h6 class="dropdown-header text-fusionwings">
                         Hola <?php echo $_SESSION['current_customer_nombre'] ?></h6>
-                    <a class="dropdown-item" href="egipcio-mi-cuenta.php">Mi cuenta</a>
+                    <a class="dropdown-item" href="fusionwings-mi-cuenta.php">Mi cuenta</a>
                     <a class="dropdown-item" href="script/logout.php">Cerrar Sesión</a>
 
                 </div>
             </div>
         <?php } ?>
-        <a class="navbar-brand p-0 d-none d-sm-none d-md-block d-xl-block d-lg-block ml-5" href="elegipcio.php">
+        <a class="navbar-brand p-0 d-none d-sm-none d-md-block d-xl-block d-lg-block ml-5" href="fusionwings.php">
             <img id="imgBrand" class="logoNavBar" src="assets/img/navbar/logo.png" alt="">
         </a>
 
         <div class="collapse navbar-collapse" id="navbarColor03">
             <ul class="navbar-nav navbar-center mx-auto">
                 <li class="nav-item ml-2">
-                    <a class="nav-link <?php echo ($page == 'inicio') ? "link-activo" : ""; ?>" href="egipcio-carta.php">INICIO</a>
+                    <a class="nav-link <?php echo ($page == 'inicio') ? "link-activo" : ""; ?>" href="fusionwings-carta.php">INICIO</a>
                 </li>
                 <!-- <li class="nav-item ml-2">
                     <a class="nav-link <?php echo ($page == 'inicio') ? "link-activo" : ""; ?>"
-                       href="elegipcio.php">INICIO</a>
+                       href="fusionwings.php">INICIO</a>
                 </li> -->
                 <!-- <li class="nav-item ml-2">
                     <a class="nav-link <?php echo ($page == 'giftCards') ? "link-activo" : ""; ?>"
-                       href="egipcio-gift-cards.php">GIFT CARDS</a>
+                       href="fusionwings-gift-cards.php">GIFT CARDS</a>
                 </li> -->
                 <li class="nav-item ml-2">
                     <a class="nav-link <?php echo ($page == 'promociones') ? "link-activo" : ""; ?>"
-                       href="egipcio-combos.php">PROMOCIONES</a>
+                       href="fusionwings-combos.php">PROMOCIONES</a>
                 </li>
                 <!-- <li class="nav-item ml-2">
-                    <a class="nav-link <?php echo ($page == 'carta') ? "link-activo" : ""; ?>" href="egipcio-carta.php">CARTA</a>
+                    <a class="nav-link <?php echo ($page == 'carta') ? "link-activo" : ""; ?>" href="fusionwings-carta.php">CARTA</a>
                 </li> -->
                 <li class="nav-item ml-2">
                     <a class="nav-link <?php echo ($page == 'reparto') ? "link-activo" : ""; ?>"
-                       href="egipcio-reparto.php">REPARTO</a>
+                       href="fusionwings-reparto.php">REPARTO</a>
                 </li>
                 <li class="nav-item ml-2">
                     <a class="nav-link <?php echo ($page == 'contacto') ? "link-activo" : ""; ?>"
-                       href="egipcio-contacto.php">CONTACTO</a>
+                       href="fusionwings-contacto.php">CONTACTO</a>
                 </li>
                 <!--<li class="nav-item ml-2 animated infinite heartBeat slow mt-3 d-none d-sm-none d-md-none d-lg-block d-xl-block">
-                    <a href="egipcio-carta.php" class="boton ">DELIVERY</a>
+                    <a href="fusionwings-carta.php" class="boton ">DELIVERY</a>
                 </li>-->
 
                 <li class="nav-item ml-2">
@@ -272,7 +272,7 @@ $loginUrl = $helper->getLoginUrl($redirectURL, $permissions);
                 </li>
 
                 <li class="nav-item ml-2">
-                    <a href="egipcio-pago.php" class=" d-none d-sm-none d-md-none d-lg-block d-xl-block">
+                    <a href="fusionwings-pago.php" class=" d-none d-sm-none d-md-none d-lg-block d-xl-block">
                         <img style="width: 50px; height: 50px" src="assets/img/navbar/comprar-mobile.png" alt="">
                     </a>
                 </li>
@@ -283,7 +283,7 @@ $loginUrl = $helper->getLoginUrl($redirectURL, $permissions);
                              <img style="width: 50px; height: 50px" src="assets/img/navbar/usuario.png" alt="">
                          </a>-->
                         <a href="javascript:;" data-toggle="modal"
-                           data-target="#login-modal" class="btn bg-egipcio-yellow text-egipcio">
+                           data-target="#login-modal" class="btn bg-fusionwings-yellow text-fusionwings">
                             <i class="fa fa-user mr-1" aria-hidden="true"></i> <br>
                             INGRESAR
                         </a>
@@ -298,10 +298,10 @@ $loginUrl = $helper->getLoginUrl($redirectURL, $permissions);
                             <img style="width: 50px; height: 50px" src="assets/img/navbar/usuario.png" alt="">
                         </a>
                         <div class="dropdown-menu dropdown-menu-right">
-                            <h6 class="dropdown-header text-egipcio">
+                            <h6 class="dropdown-header text-fusionwings">
                                 Hola <?php echo $_SESSION['current_customer_nombre'] ?></h6>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item dropDrown-link" href="egipcio-mi-cuenta.php">Mi Cuenta</a>
+                            <a class="dropdown-item dropDrown-link" href="fusionwings-mi-cuenta.php">Mi Cuenta</a>
                             <a class="dropdown-item dropDrown-link" href="script/logout.php">Cerrar Sesión</a>
                         </div>
                     </li>

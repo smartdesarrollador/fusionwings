@@ -151,7 +151,7 @@ if ($_SESSION['envio'] == 'recojo' || $_SESSION['solo_gift_cards'] == 'true') {
 
         Culqi.options({
             style: {
-                logo: 'https://elegipcio.pe/assets/img/navbar/logo.png',
+                logo: 'https://fusionwings.pe/assets/img/navbar/logo.png',
                 maincolor: '#9C0001',
                 buttontext: '#ffffff',
                 maintext: '#4A4A4A',
@@ -161,7 +161,7 @@ if ($_SESSION['envio'] == 'recojo' || $_SESSION['solo_gift_cards'] == 'true') {
 
 
         Culqi.settings({
-            title: 'EL EGIPCIO',
+            title: 'Fusion Wings',
             currency: 'PEN',
             description: 'Delivery Web',
             amount: <?php echo $total?>
@@ -195,7 +195,7 @@ if ($_SESSION['envio'] == 'recojo' || $_SESSION['solo_gift_cards'] == 'true') {
         document.getElementById("direccionFormateada").value = '<?= $direccion ?>';
         Culqi.options({
             style: {
-                logo: 'https://elegipcio.pe/assets/img/navbar/logo.png',
+                logo: 'https://fusionwings.pe/assets/img/navbar/logo.png',
                 maincolor: '#9C0001',
                 buttontext: '#ffffff',
                 maintext: '#4A4A4A',
@@ -205,7 +205,7 @@ if ($_SESSION['envio'] == 'recojo' || $_SESSION['solo_gift_cards'] == 'true') {
 
 
         Culqi.settings({
-            title: 'EL EGIPCIO',
+            title: 'Fusion Wings',
             currency: 'PEN',
             description: 'Delivery Web',
             amount: <?php echo $total?> +finalShippingCost * 100

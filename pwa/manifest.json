@@ -1,6 +1,6 @@
 {
-  "name": "El egipcio, shawarma,  falafel - comida árabe",
-  "short_name": "El egipcio",
+  "name": "Fusion Wings, shawarma,  falafel - comida árabe",
+  "short_name": "Fusion Wings",
   "icons": [
     {
       "src": "icons/apple-touch-icon-48x48.png",
@@ -33,9 +33,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "../elegipcio.php",
+  "start_url": "../fusionwings.php",
   "display": "standalone",
   "background_color": "#f4fe09",
   "theme_color": "#9c0001",
-  "description": "El egipcio, shawarma,  falafel - comida árabe"
+  "description": "Fusion Wings, shawarma,  falafel - comida árabe"
 }

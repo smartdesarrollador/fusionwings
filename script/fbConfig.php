@@ -8,8 +8,8 @@ require '../class/ClienteClass.php';
 
 $appId = '824113894745455'; //Identificador de la Aplicación
 $appSecret = 'e6199f85761648d8e32c21eb009a2650'; //Clave secreta de la aplicación
-/*$redirectURL   = 'https://elegipcio.pe/script/fbConfig.php'; //Callback URL*/
-$redirectURL = 'https://elegipcio.pe/script/fbConfig.php'; //Callback URL
+/*$redirectURL   = 'https://fusionwings.pe/script/fbConfig.php'; //Callback URL*/
+$redirectURL = 'https://fusionwings.pe/script/fbConfig.php'; //Callback URL
 $fbPermissions = array('');  //Permisos opcionales
 
 $objCliente = new ClienteClass();
@@ -124,12 +124,12 @@ $_SESSION['current_customer_direccion'] = $existe['direccion'];
 $_SESSION['current_customer_puntos'] = $existe['puntos'];
 if (isset($_GET['redirect'])) {
     if ($_GET['redirect'] == 'carrito') {
-        header("location:../egipcio-pago.php");
+        header("location:../fusionwings-pago.php");
     } else {
-        header("location:../egipcio-carta.php");
+        header("location:../fusionwings-carta.php");
     }
 } else {
 
-    header("location:../egipcio-carta.php");
+    header("location:../fusionwings-carta.php");
 }
 

@@ -26,9 +26,9 @@ if (isset($_SESSION['deliveryZoneId'])) {
 
                 <h5>Redes Sociales</h5>
                 <ul class="list-unstyled text-center">
-                    <li class="mt-3"><a target="_blank" href="https://www.facebook.com/elegipcio.pe"><img class="animated infinite jello slow" width="60px" src="assets/img/footer/icono-fb.png" alt=""><br>Siguenos en Facebook</a>
+                    <li class="mt-3"><a target="_blank" href="https://www.facebook.com/fusionwings.pe"><img class="animated infinite jello slow" width="60px" src="assets/img/footer/icono-fb.png" alt=""><br>Siguenos en Facebook</a>
                     </li>
-                    <li class="mt-3"><a target="_blank" href="https://www.instagram.com/elegipcio.pe/"><img class="animated infinite jello slow" width="60px" src="assets/img/footer/icono-instagram.png" alt=""><br>Siguenos en Instagram</a>
+                    <li class="mt-3"><a target="_blank" href="https://www.instagram.com/fusionwings.pe/"><img class="animated infinite jello slow" width="60px" src="assets/img/footer/icono-instagram.png" alt=""><br>Siguenos en Instagram</a>
                     </li>
 
 
@@ -94,7 +94,7 @@ if (isset($_SESSION['deliveryZoneId'])) {
                     <a style="font-size: 18px; color: #FFFFFF;" href="cv.php">Bolsa de Trabajo </a>|<a style="font-size: 18px; color: #FFFFFF;" href="blog.php"> BLOG </a>| <a href="terminos.php">
                         Terminos y Condiciones</a>
                 </p>
-                <p class="h6">&copy Todos los Derechos Reservados.<a class="text-green ml-2" href="https://enfocussoluciones.com" target="_blank">El Egipcio - Enfocus</a></p>
+                <p class="h6">&copy Todos los Derechos Reservados.<a class="text-green ml-2" href="https://enfocussoluciones.com" target="_blank">Fusion Wings - Enfocus</a></p>
             </div>
             <hr>
         </div>

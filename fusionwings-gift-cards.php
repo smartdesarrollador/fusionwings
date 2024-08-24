@@ -12,7 +12,7 @@ $estadoTienda = trim($objTienda->getEstadoTienda()['estado']);
 
 if (count($lista) < 1) {
     header("Status: 302 Found");
-    header('location: egipcio-carta.php');
+    header('location: fusionwings-carta.php');
     exit();
 }
 
@@ -31,13 +31,13 @@ foreach ($lista as $item) {
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Gift Cards</title>
+    <title>Fusion Wings - Gift Cards</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
 
 
     <!--Seo Meta Tags-->
-    <meta name="title" content="Promociones - El Egipcio">
+    <meta name="title" content="Promociones - Fusion Wings">
     <meta name="description" content="<?php echo substr($nombres, 0, 151) ?>">
     <meta name="keywords" content="<?php echo $nombres ?>">
 
@@ -81,7 +81,7 @@ foreach ($lista as $item) {
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <i class="fa fa-times" aria-hidden="true"></i>
                     </button>
-                    <h3 class="text-center text-egipcio m-0">¿A quien va dirigido el gift card?</h3>
+                    <h3 class="text-center text-fusionwings m-0">¿A quien va dirigido el gift card?</h3>
                     <!--  <h5 class="text-center">A quien va dirigido el gift card ?<i
                                   class="fa fa-arrow-down animated bounce infinite slow" aria-hidden="true"></i></h5>-->
 
@@ -185,7 +185,7 @@ foreach ($lista as $item) {
             '<img src="assets/img/promos/' + product.imagenProducto + '" class="card-img-top" alt="...">\n' +
             '                    <div class="card-body p-2 d-flex flex-column">';
         if (product.esNuevo === 'TRUE') {
-            card += '<h5 class="text-egipcio mt-2">\n' +
+            card += '<h5 class="text-fusionwings mt-2">\n' +
                 '                                !NUEVO PRODUCTO!\n' +
                 '                            </h5>'
         }

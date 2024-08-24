@@ -72,7 +72,7 @@ if (isset($_REQUEST['action']) && !empty($_REQUEST['action'])) {
 
 
             $insertItem = $cart->insert($itemData);
-            $redirectLoc = $insertItem ? '../egipcio-pago.php' : '../index.php';
+            $redirectLoc = $insertItem ? '../fusionwings-pago.php' : '../index.php';
             header("Location: " . $redirectLoc);
         } else {
             header("Location: ../index.php");
@@ -82,7 +82,7 @@ if (isset($_REQUEST['action']) && !empty($_REQUEST['action'])) {
         if ($_REQUEST['qty'] == 0) {
 
             $deleteItem = $cart->remove($_REQUEST['id']);
-            header("Location: ../egipcio-pago.php");
+            header("Location: ../fusionwings-pago.php");
             exit();
         }
 
@@ -95,7 +95,7 @@ if (isset($_REQUEST['action']) && !empty($_REQUEST['action'])) {
           exit();*/
         $updateItem = $cart->update($itemData);
 
-        $redirectLoc = $updateItem ? '../egipcio-pago.php' : '../index.php';
+        $redirectLoc = $updateItem ? '../fusionwings-pago.php' : '../index.php';
         header("Location: " . $redirectLoc);
 
         //ajax
@@ -104,10 +104,10 @@ if (isset($_REQUEST['action']) && !empty($_REQUEST['action'])) {
 
     } elseif ($_REQUEST['action'] == 'removeCartItem' && !empty($_REQUEST['id'])) {
         $deleteItem = $cart->remove($_REQUEST['id']);
-        header("Location: ../egipcio-pago.php");
+        header("Location: ../fusionwings-pago.php");
     } elseif ($_REQUEST['action'] == 'destroyCart') {
         $cart->destroy();
-        header("Location: ../egipcio-pago.php");
+        header("Location: ../fusionwings-pago.php");
 
     } elseif ($_REQUEST['action'] == 'placeOrder' && $cart->total_items() > 0 && !empty($_SESSION['current_customer_idCliente'])) {
 

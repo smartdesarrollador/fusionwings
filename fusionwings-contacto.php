@@ -9,11 +9,11 @@ $page = 'contacto';
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Contáctanos</title>
+    <title>Fusion Wings - Contáctanos</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
     <link rel="stylesheet" href="assets/css/contacto.css">
-    <meta property="og:image" content="https://elegipcio.pe/assets/img/OpenGraph/ogContacto.jpg"/>
+    <meta property="og:image" content="https://fusionwings.pe/assets/img/OpenGraph/ogContacto.jpg"/>
 </head>
 <body>
 <?php include 'shared/navBar.php' ?>
@@ -72,7 +72,7 @@ $page = 'contacto';
 
             <div class="title-desc text-center px-lg-5">
 
-                <p>contactanos@elegipcio.pe</p>
+                <p>contactanos@fusionwings.pe</p>
                <!-- <p><i class="fa fa-phone" aria-hidden="true"></i> (01) 693 - 7012
                 </p>-->
                 <p><i class="fa fa-phone" aria-hidden="true"></i> 981 344 827 / (01) 7753323

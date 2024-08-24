@@ -23,12 +23,12 @@ foreach ($lista as $item) {
 <html lang="en">
 
 <head>
-    <meta property="og:image" content="https://elegipcio.pe/assets/img/OpenGraph/ogCarta.png" />
+    <meta property="og:image" content="https://fusionwings.pe/assets/img/OpenGraph/ogCarta.png" />
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta https-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Carta</title>
+    <title>Fusion Wings - Carta</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
     <link rel="stylesheet" href="assets/css/seleccion_multiple.css">
@@ -61,7 +61,7 @@ foreach ($lista as $item) {
             <div class="swiper-wrapper">
                 <!-- Slides -->
                <!--  <div class="swiper-slide">
-                    <a href="egipcio-carta.php">
+                    <a href="fusionwings-carta.php">
                         <img class="img-fluid d-none d-md-block" src="assets/img/index/BANNER-DELIVERY-GRATIS.jpg" alt="">
                         <img class="img-fluid d-block d-md-none" src="assets/img/index/banner-movil.jpg" alt=""> 
                        
@@ -70,7 +70,7 @@ foreach ($lista as $item) {
                 </div> -->
 
                 <div class="swiper-slide">
-                    <a href="egipcio-carta.php">
+                    <a href="fusionwings-carta.php">
                         <img class="img-fluid d-none d-md-block" src="assets/img/index/banner3horizontal.jpg" alt="">
                         <img class="img-fluid d-block d-md-none" src="assets/img/index/movil-3.jpg" alt="">
 
@@ -78,7 +78,7 @@ foreach ($lista as $item) {
                     </a>
                 </div>
                 <!--    <div class="swiper-slide">
-                    <a href="egipcio-carta.php">
+                    <a href="fusionwings-carta.php">
                         <img class="img-fluid d-none d-md-block" src="assets/img/index/banner-de-descuento.jpg" alt=""> 
                         <img class="img-fluid d-block d-md-none" src="assets/img/index/BANNER_MOVIL_4.jpg" alt="">
 
@@ -86,7 +86,7 @@ foreach ($lista as $item) {
                     </a>
                 </div> -->
                 <!--       <div class="swiper-slide">
-                    <a href="egipcio-carta.php">
+                    <a href="fusionwings-carta.php">
                         <img class="img-fluid d-none d-md-block" src="assets/img/index/BANNER_5.jpg" alt="">
                         <img class="img-fluid d-block d-md-none" src="assets/img/index/BANNER_MOVIL_5.jpg" alt="">
                     </a>
@@ -104,13 +104,13 @@ foreach ($lista as $item) {
 
         <div class="row mb-3">
             <div class="col">
-                <h2 class="titulo">EL EGIPCIO</h2>
+                <h2 class="titulo">Fusion Wings</h2>
 
             </div>
         </div>
         <div class="row mx-0 px-0 my-5">
             <div class="col-sm-12 col-sm-12 text-center mx-0 px-0">
-                <a href="egipcio-carta.php" class="btn btn-danger bg-danger text-white font-weight-bolder">
+                <a href="fusionwings-carta.php" class="btn btn-danger bg-danger text-white font-weight-bolder">
                     <h3>ORDENA AQUÍ</h3>
                 </a>
             </div>
@@ -155,7 +155,7 @@ foreach ($lista as $item) {
         </div>
     </div>
     <?php include 'shared/footer.php' ?>
-    <script src="assets/js/egipcio-carta.js"></script>
+    <script src="assets/js/fusionwings-carta.js"></script>
     <script>
         $(document).ready(function() {
             $('#myModal').modal('toggle')
@@ -185,7 +185,7 @@ foreach ($lista as $item) {
                 '<img src="assets/img/promos/' + product.imagenProducto + '" class="card-img-top" alt="...">\n' +
                 '                    <div class="card-body p-2 d-flex flex-column">';
             if (product.esNuevo === 'TRUE') {
-                card += '<h5 class="text-egipcio mt-2">\n' +
+                card += '<h5 class="text-fusionwings mt-2">\n' +
                     '                                !NUEVO PRODUCTO!\n' +
                     '                            </h5>'
             }
@@ -210,24 +210,24 @@ foreach ($lista as $item) {
             if (product.stock === 'YES') {
 
                 if (product.productoObservaciones === 'MULTI_BOWL') {
-                    card += '<a onclick="buyProductAndValidate(event)"\n' + 'href="egipcio-shawerma-bowl.php?id=' + product.idProducto + '"\n' +
+                    card += '<a onclick="buyProductAndValidate(event)"\n' + 'href="fusionwings-shawerma-bowl.php?id=' + product.idProducto + '"\n' +
                         'class="comprar-button w-100 align-self-end mt-auto">Arma tu Bowl</a>'
                 } else if (product.productoObservaciones === 'MULTI_SHAWERMA') {
                     card += ' <a onclick="buyProductAndValidate(event)"\n' + ' data-whatever="' + product.idProducto + '"\n' +
-                        '                             href="egipcio-shawerma-premium.php?id=' + product.idProducto + '"\n' +
+                        '                             href="fusionwings-shawerma-premium.php?id=' + product.idProducto + '"\n' +
                         '                           class="comprar-button w-100 align-self-end mt-auto">Arma tu Shawerma</a>'
                 } else if (product.productoObservaciones === 'MULTI_FALAFEL') {
                     card += '<a onclick="buyProductAndValidate(event)"\n' +
-                        '                                            href="egipcio-falafel-premium.php?id=' + product.idProducto + '"\n' +
+                        '                                            href="fusionwings-falafel-premium.php?id=' + product.idProducto + '"\n' +
                         '                                            class="comprar-button w-100 align-self-end mt-auto">Arma tu Falafel</a>'
                 } else if (product.productoObservaciones === 'MULTI_COMBO_AL_PESO1') {
-                    card += ' <a onclick="buyProductAndValidate(event)" href="egipcio-combo-al-peso-pollo.php?id=' + product.idProducto + '" class="comprar-button w-100 align-self-end mt-auto">' +
+                    card += ' <a onclick="buyProductAndValidate(event)" href="fusionwings-combo-al-peso-pollo.php?id=' + product.idProducto + '" class="comprar-button w-100 align-self-end mt-auto">' +
                         'Arma tu Combo</a>'
                 } else if (product.productoObservaciones === 'MULTI_COMBO_AL_PESO2') {
-                    card += '<a onclick="buyProductAndValidate(event)" href="egipcio-combo-al-peso-mixto.php?id=' + product.idProducto + '"\n' +
+                    card += '<a onclick="buyProductAndValidate(event)" href="fusionwings-combo-al-peso-mixto.php?id=' + product.idProducto + '"\n' +
                         '                                       class="comprar-button w-100 align-self-end mt-auto">Comprar</a>'
                 } else if (product.productoObservaciones === 'SALSA_ALITAS') {
-                    card += '<a onclick="buyProductAndValidate(event)" href="egipcio-salsa-alitas.php?id=' + product.idProducto + '"\n' +
+                    card += '<a onclick="buyProductAndValidate(event)" href="fusionwings-salsa-alitas.php?id=' + product.idProducto + '"\n' +
                         '                                       class="comprar-button w-100 align-self-end mt-auto">Comprar</a>'
                 } else {
 

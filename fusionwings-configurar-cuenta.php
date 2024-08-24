@@ -3,7 +3,7 @@ session_start();
 error_reporting(0);
 if (isset($_GET['id'], $_GET['token'])) {
 } else {
-    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://elegipcio.pe";
+    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://fusionwings.pe";
     exit();
 }
 
@@ -14,12 +14,12 @@ $cliente = $objCliente->getClienteByIDAndConfigurationToken($_GET['id'], $_GET['
 
 if ($cliente['configAccountToken'] != $_GET['token'] || $cliente['idCliente'] != $_GET['id']) {
 
-    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://elegipcio.pe";
+    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://fusionwings.pe";
     exit();
 }
 if ($cliente['cuentaConfigurada'] =='true' ) {
 
-    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://elegipcio.pe";
+    echo "Esta cuenta ya a sido configurada, si no recuerdas la contraseña, por favor usa la opcion de recuperar contraseña en https://fusionwings.pe";
     exit();
 }
 
@@ -31,7 +31,7 @@ if ($cliente['cuentaConfigurada'] =='true' ) {
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Configura tu Cuenta</title>
+    <title>Fusion Wings - Configura tu Cuenta</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
 </head>
@@ -40,7 +40,7 @@ if ($cliente['cuentaConfigurada'] =='true' ) {
 <div class="container main-container animated fadeIn slow mb-5">
     <div class="row mb-3">
         <div class="col">
-            <h2 class="titulo">BIENVENIDO A <br> EL EGIPCIO</h2>
+            <h2 class="titulo">BIENVENIDO A <br> Fusion Wings</h2>
         </div>
     </div>
 

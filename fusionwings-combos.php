@@ -13,7 +13,7 @@ $estadoTienda = trim($objTienda->getEstadoTienda()['estado']);
 
 if (count($lista) < 1) {
     header("Status: 302 Found");
-    header('location: egipcio-carta.php');
+    header('location: fusionwings-carta.php');
     exit();
 }
 
@@ -32,17 +32,17 @@ foreach ($lista as $item) {
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta https-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Promociones</title>
+    <title>Fusion Wings - Promociones</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
 
 
     <!--Seo Meta Tags-->
-    <meta name="title" content="Promociones - El Egipcio">
+    <meta name="title" content="Promociones - Fusion Wings">
     <meta name="description" content="<?php echo substr($nombres, 0, 151) ?>">
     <meta name="keywords" content="<?php echo $nombres ?>">
 
-    <meta property="og:image" content="https://elegipcio.pe/assets/img/OpenGraph/ogPromociones.png"/>
+    <meta property="og:image" content="https://fusionwings.pe/assets/img/OpenGraph/ogPromociones.png"/>
 
     <meta property="og:description"
           content="<?php echo substr($nombres, 0, 151) ?>">
@@ -79,7 +79,7 @@ foreach ($lista as $item) {
 </div>
 
 <?php include 'shared/footer.php' ?>
-<script src="assets/js/egipcio-combos.js"></script>
+<script src="assets/js/fusionwings-combos.js"></script>
 <script>
     const data = <?= json_encode($lista) ?>;
 
@@ -105,7 +105,7 @@ foreach ($lista as $item) {
             '<img src="assets/img/promos/' + product.imagenProducto + '" class="card-img-top" alt="...">\n' +
             '                    <div class="card-body p-2 d-flex flex-column">';
         if (product.esNuevo === 'TRUE') {
-            card += '<h5 class="text-egipcio mt-2">\n' +
+            card += '<h5 class="text-fusionwings mt-2">\n' +
                 '                                !NUEVO PRODUCTO!\n' +
                 '                            </h5>'
         }
@@ -127,7 +127,7 @@ foreach ($lista as $item) {
         if (product.stock === 'YES') {
 
             if (product.productoObservaciones === 'MULTI_BOWL') {
-                card += '<a onclick="buyProductAndValidate(event)"\n' + 'href="egipcio-bowl-mediano-y-chicha.php?id=' + product.idProducto + '"' +
+                card += '<a onclick="buyProductAndValidate(event)"\n' + 'href="fusionwings-bowl-mediano-y-chicha.php?id=' + product.idProducto + '"' +
                     'class="comprar-button w-100 align-self-end mt-auto">Arma tu Bowl</a>'
             } else {
 

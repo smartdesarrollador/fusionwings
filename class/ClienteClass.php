@@ -306,7 +306,7 @@ nombre='$nombre'
             $objHelper = new Helper();
             $idInsertado = AccesoBD::InsertAndGetLastId($this->cn, $sqlInsert);
             $idEncriptado = $objHelper->my_simple_crypt($idInsertado);
-            $urlQR = 'https://elegipcio.pe/r.php?u=' . $idEncriptado;
+            $urlQR = 'https://fusionwings.pe/r.php?u=' . $idEncriptado;
             $nombreFoto = $idEncriptado . '.png';
             $apiQR = file_get_contents('https://worksafetytech.com/utils/qrGeneratorMaxSize.php?content=' . $urlQR);
             file_put_contents('../assets/img/qrCodes/' . $nombreFoto, $apiQR);

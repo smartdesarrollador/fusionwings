@@ -44,7 +44,7 @@ if ($_POST['action'] == 'submit') {
     if ($_FILES['foto']['error'] == UPLOAD_ERR_NO_FILE) {
 
         $objProducto->updateProductWithoutPhoto($idProducto,$nombreProducto,$descripcionProducto,$tipoProducto,$precioProducto,$puntosProducto,$storeId);
-        header('location: https://operaciones.elegipcio.pe/productos?code=updateSuccess');
+        header('location: https://operaciones.fusionwings.pe/productos?code=updateSuccess');
     }else{//con foto
         $producto = $objProducto->getProductoById($idProducto);
         $oldImageUrl = "../assets/img/promos/".trim($producto['imagenProducto']);
@@ -55,7 +55,7 @@ if ($_POST['action'] == 'submit') {
         if (copy($_FILES['foto']['tmp_name'], $destinoUrl)) {
             if ($objProducto->updateProductWithPhoto($idProducto,$nombreProducto,$descripcionProducto,$nombreNuevoArchivo,$tipoProducto,$precioProducto,$puntosProducto,$storeId)>=0){
                 if (unlink($oldImageUrl)){
-                    header('location: https://operaciones.elegipcio.pe/productos?code=updateSuccess');
+                    header('location: https://operaciones.fusionwings.pe/productos?code=updateSuccess');
                 }else{
                     echo "Error al borrar la anterior foto, contacte con el administrador";
                 }

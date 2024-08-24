@@ -19,13 +19,13 @@ if (isset($_SESSION['current_customer_idCliente'], $_SESSION['current_customer_e
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Mi Cuenta</title>
+    <title>Fusion Wings - Mi Cuenta</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
     <link rel="stylesheet" href="node_modules/viewerjs/dist/viewer.min.css">
     <script src="node_modules/viewerjs/dist/viewer.min.js"></script>
     <style>
-        .card-egipcio {
+        .card-fusionwings {
             border: 1px solid #9C0001 !important;
         }
     </style>
@@ -63,14 +63,14 @@ if (isset($_SESSION['current_customer_idCliente'], $_SESSION['current_customer_e
 
     <div class="row mb-3">
         <div class="col-12 col-sm-12 col-md-3 col-xl-3 col-lg-3 p-2 p-sm-2 p-md-1 p-xl-4 p-lg-4">
-            <div class="card card-egipcio" style="width: 100%;">
+            <div class="card card-fusionwings" style="width: 100%;">
                 <div class="card-body text-center">
                     <img src="assets/img/icons/usuario.png" alt="" style="width: 100px">
                     <h6 class="font-weight-lighter mt-1"><?php echo $clienteActual['nombre'] . ' ' . $clienteActual['apellido']; ?></h6>
-                    <h5>Bienvenido a El Egipcio</h5>
+                    <h5>Bienvenido a Fusion Wings</h5>
                 </div>
             </div>
-            <div class="card card-egipcio mt-2 mt-sm-2 mt-md-3 mt-xl-4 mt-lg-4" style="width: 100%;">
+            <div class="card card-fusionwings mt-2 mt-sm-2 mt-md-3 mt-xl-4 mt-lg-4" style="width: 100%;">
                 <div class="card-body text-center">
 
 
@@ -89,7 +89,7 @@ if (isset($_SESSION['current_customer_idCliente'], $_SESSION['current_customer_e
         </div>
         <div class="col-12 col-sm-12 col-md-9 col-xl-9 col-lg-9 p-2 p-sm-2 p-md-1 p-xl-4 p-lg-4">
 
-            <div class="card card-egipcio w-100 h-100">
+            <div class="card card-fusionwings w-100 h-100">
                 <div class="card-body ">
 
 

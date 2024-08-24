@@ -1,6 +1,6 @@
 <?php
 
-header('Location:egipcio-carta.php');
+header('Location:fusionwings-carta.php');
 exit;
 
 ?>

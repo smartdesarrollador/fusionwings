@@ -9,10 +9,10 @@ $page = 'reparto';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Zona de Reparto</title>
+    <title>Fusion Wings - Zona de Reparto</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
-    <meta property="og:image" content="https://elegipcio.pe/assets/img/OpenGraph/ogZonaReparto.png" />
+    <meta property="og:image" content="https://fusionwings.pe/assets/img/OpenGraph/ogZonaReparto.png" />
 
 </head>
 

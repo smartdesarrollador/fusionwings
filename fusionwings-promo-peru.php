@@ -22,7 +22,7 @@ $ingredientesSalsa = $objProductoIngrediente->getIngredientesByIdProductoAndTipo
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - <?php echo $producto['nombreProducto'] ?></title>
+    <title>Fusion Wings - <?php echo $producto['nombreProducto'] ?></title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
 
@@ -42,8 +42,8 @@ $ingredientesSalsa = $objProductoIngrediente->getIngredientesByIdProductoAndTipo
             <div class="col">
                 <nav aria-label="breadcrumb" style="background-image: none !important;">
                     <ol class="breadcrumb bg-transparent font-weight-bold text-lowercase m-0 p-0">
-                        <li class="breadcrumb-item "><a href="elegipcio.php" class="text-dark">Inicio</a></li>
-                        <li class="breadcrumb-item "><a href="egipcio-carta.php" class="text-dark">Carta</a></li>
+                        <li class="breadcrumb-item "><a href="fusionwings.php" class="text-dark">Inicio</a></li>
+                        <li class="breadcrumb-item "><a href="fusionwings-carta.php" class="text-dark">Carta</a></li>
                         <li class="breadcrumb-item active " aria-cur rent="page"><?php echo $producto['nombreProducto'] ?></li>
                     </ol>
                 </nav>
@@ -55,7 +55,7 @@ $ingredientesSalsa = $objProductoIngrediente->getIngredientesByIdProductoAndTipo
                 <img class="img-fluid " loading="lazy" src="assets/img/promos/<?php echo $producto['imagenProducto'] ?>" alt="">
             </div>
             <div class="col-12 col-sm-12 col-md-6 col-xl-6 col-lg-6">
-                <h3 class="text-egipcio font-weight-bolder mt-4 mt-md-0"><?php echo $producto['nombreProducto'] ?></h3>
+                <h3 class="text-fusionwings font-weight-bolder mt-4 mt-md-0"><?php echo $producto['nombreProducto'] ?></h3>
                 <div class="row mb-3">
                     <div class="col">
                         <div class="separador"></div>

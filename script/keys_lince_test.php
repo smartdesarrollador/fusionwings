@@ -9,7 +9,7 @@ require_once __DIR__ . '/izipay_vendor/autoload.php';
  * Define configuration
  */
 
-/*------- Lince Test Corporacion El Egipcio --------- */
+/*------- Lince Test Corporacion Fusion Wings --------- */
 
 /* Username, password and endpoint used for server to server web-service calls */
 Lyra\Client::setDefaultUsername("39835468");
@@ -22,9 +22,9 @@ Lyra\Client::setDefaultPublicKey("39835468:testpublickey_x6KMozSEUaXXJCnFbm3J4Gq
 /* SHA256 key */
 Lyra\Client::setDefaultSHA256Key("0oZJ8vZxKQPa5WduG7fUjsmidF6fNWATjXg0j7gjBU7yu");
 
-/*------- /Lince Test Corporacion El Egipcio --------- */
+/*------- /Lince Test Corporacion Fusion Wings --------- */
 
-/*------- Lince Produccion Corporacion El Egipcio --------- */
+/*------- Lince Produccion Corporacion Fusion Wings --------- */
 
 /* Username, password and endpoint used for server to server web-service calls */
 /* Lyra\Client::setDefaultUsername("39835468");
@@ -37,4 +37,4 @@ Lyra\Client::setDefaultEndpoint("https://api.micuentaweb.pe"); */
 /* SHA256 key */
 /* Lyra\Client::setDefaultSHA256Key("rLR2qbtgqlG70K4QWEhAbjiyl0GPBeyNEMmEj9vP6IfoT"); */
 
-/*------- /Lince Produccion Corporacion El Egipcio --------- */
+/*------- /Lince Produccion Corporacion Fusion Wings --------- */

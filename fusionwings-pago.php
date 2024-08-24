@@ -41,7 +41,7 @@ if ($_SESSION['current_customer_puntos'] >= 100) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>El Egipcio - Bolsa de compras</title>
+    <title>Fusion Wings - Bolsa de compras</title>
     <?php include "shared/libraries.php"; ?>
     <link rel="stylesheet" href="assets/css/cards.css">
     <link rel="stylesheet" href="assets/css/carrito.css">
@@ -167,7 +167,7 @@ if ($_SESSION['current_customer_puntos'] >= 100) {
                                 <div class="col col-12 text-center mt-4">
                                     <i style="font-size: 100px;color: #fff000" class="fa fa-shopping-cart"></i>
                                     <h5 class="py-3">Tu carrito está vacío</h5>
-                                    <a href="egipcio-carta.php" class="comprar-button">IR A COMPRAR</a>
+                                    <a href="fusionwings-carta.php" class="comprar-button">IR A COMPRAR</a>
                                 </div>
                             </div>
                         <?php
@@ -179,7 +179,7 @@ if ($_SESSION['current_customer_puntos'] >= 100) {
                 </div>
                 <div class="row mt-5 mb-4">
                     <div class="col text-center text-xl-left text-lg-left">
-                        <a class="btn btn-lg btn-danger animated infinite bounce slow btn-seguirComprando" href="egipcio-carta.php">
+                        <a class="btn btn-lg btn-danger animated infinite bounce slow btn-seguirComprando" href="fusionwings-carta.php">
                             SEGUIR COMPRANDO
                         </a>
                     </div>
@@ -425,7 +425,7 @@ if ($_SESSION['current_customer_puntos'] >= 100) {
                 '<img src="assets/img/promos/' + product.imagenProducto + '" class="card-img-top" alt="...">\n' +
                 '                    <div class="card-body p-2 d-flex flex-column">';
             if (product.esNuevo === 'TRUE') {
-                card += '<h5 class="text-egipcio mt-2">\n' +
+                card += '<h5 class="text-fusionwings mt-2">\n' +
                     '                                !NUEVO PRODUCTO!\n' +
                     '                            </h5>'
             }
@@ -447,21 +447,21 @@ if ($_SESSION['current_customer_puntos'] >= 100) {
             if (product.stock === 'YES') {
 
                 if (product.productoObservaciones === 'MULTI_BOWL') {
-                    card += '<a\n' + 'href="egipcio-shawerma-bowl.php"\n' +
+                    card += '<a\n' + 'href="fusionwings-shawerma-bowl.php"\n' +
                         'class="comprar-button w-100 align-self-end mt-auto">Arma tu Bowl</a>'
                 } else if (product.productoObservaciones === 'MULTI_SHAWERMA') {
                     card += ' <a onclick="buyProductAndValidate(event)"\n' + ' data-whatever="' + product.idProducto + '"\n' +
-                        '                             href="egipcio-shawerma-premium.php"\n' +
+                        '                             href="fusionwings-shawerma-premium.php"\n' +
                         '                           class="comprar-button w-100 align-self-end mt-auto">Arma tu Shawerma</a>'
                 } else if (product.productoObservaciones === 'MULTI_FALAFEL') {
                     card += '<a onclick="buyProductAndValidate(event)"\n' +
-                        '                                            href="egipcio-falafel-premium.php"\n' +
+                        '                                            href="fusionwings-falafel-premium.php"\n' +
                         '                                            class="comprar-button w-100 align-self-end mt-auto">Arma tu Falafel</a>'
                 } else if (product.productoObservaciones === 'MULTI_COMBO_AL_PESO1') {
-                    card += ' <a href="egipcio-combo-al-peso-pollo.php" class="comprar-button w-100 align-self-end mt-auto">' +
+                    card += ' <a href="fusionwings-combo-al-peso-pollo.php" class="comprar-button w-100 align-self-end mt-auto">' +
                         'Arma tu Combo</a>'
                 } else if (product.productoObservaciones === 'MULTI_COMBO_AL_PESO2') {
-                    card += '<a onclick="buyProductAndValidate(event)" href="egipcio-combo-al-peso-mixto.php"\n' +
+                    card += '<a onclick="buyProductAndValidate(event)" href="fusionwings-combo-al-peso-mixto.php"\n' +
                         '                                       class="comprar-button w-100 align-self-end mt-auto">Arma tu Combo</a>'
                 } else {
 
