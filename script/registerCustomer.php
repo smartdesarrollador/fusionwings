@@ -80,7 +80,7 @@ if (count($customer) > 0) {
                 <tbody>
                 <tr width="100%" height="60">
                     <td valign="top" align="left"
-                        style="border-top-left-radius:4px;border-top-right-radius:4px; padding:10px 18px;text-align:center;background-color: #9C0001">
+                        style="border-top-left-radius:4px;border-top-right-radius:4px; padding:10px 18px;text-align:center;background-color: #FF6900">
                         <img  width="125"
                               src="https://fusionwings.pe/assets/img/navbar/logo.png"
                               title="Fusion Wings" style="font-weight:bold;font-size:18px;color:#fff;vertical-align:top"
@@ -96,12 +96,12 @@ if (count($customer) > 0) {
                         <div style="background:#f6f7f8;border-radius:3px"><br>
 
                             <p style="text-align:center"><a href="https://fusionwings.pe/fusionwings-carta.php"
-                                                            style="color:#9C0001;font:26px/1.25em \'Helvetica Neue\',Arial,Helvetica;text-decoration:none;font-weight:bold"
+                                                            style="color:#FF6900;font:26px/1.25em \'Helvetica Neue\',Arial,Helvetica;text-decoration:none;font-weight:bold"
                                                             target="_blank">fusionwings.pe</a></p>
 
                             <p style="font:15px/1.25em \'Helvetica Neue\',Arial,Helvetica;margin-bottom:0;text-align:center">
                                 <a href="https://fusionwings.pe/fusionwings-carta.php"
-                                   style="border-radius:3px;background:#9C0001;color:#fff;display:block;font-weight:700;font-size:16px;line-height:1.25em;margin:24px auto 6px;padding:10px 18px;text-decoration:none;width:180px"
+                                   style="border-radius:3px;background:#FF6900;color:#fff;display:block;font-weight:700;font-size:16px;line-height:1.25em;margin:24px auto 6px;padding:10px 18px;text-decoration:none;width:180px"
                                    target="_blank">Ir a la Carta</a></p>
 
                             <br><br></div>

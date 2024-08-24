@@ -24,8 +24,8 @@ $page = 'inicio';
     <link rel="stylesheet" href="assets/css/index.css">
     <style>
         a.bg-danger {
-            background-color: #9C0001 !important;
-            border-color: #9C0001 !important;
+            background-color: #FF6900 !important;
+            border-color: #FF6900 !important;
         }
     </style>
 </head>

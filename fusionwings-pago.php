@@ -324,7 +324,7 @@ if ($_SESSION['current_customer_puntos'] >= 100) {
                 ?>
                 <div class="row mb-3">
                     <div class="col text-center">
-                        <div class="progress" style="border: 2px solid #9C0001;">
+                        <div class="progress" style="border: 2px solid #FF6900;">
                             <div class="progress-bar progress-bar-complementos progress-bar-striped progress-bar-animated" role="progressbar" style="width: <?php echo $progressWidth; ?>%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
                             </div>
                         </div>

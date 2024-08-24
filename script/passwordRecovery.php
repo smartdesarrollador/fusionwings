@@ -23,7 +23,7 @@ if (isset($_POST['lostEmail'])) {
         $mensaje = '<div>
     <div style="background-color:#f2f3f5;padding:20px">
         <div style="max-width:600px;margin:0 auto">
-            <div style="background:#fff;font:14px sans-serif;color:#686f7a;border-top:4px solid #9C0001;margin-bottom:20px">
+            <div style="background:#fff;font:14px sans-serif;color:#686f7a;border-top:4px solid #FF6900;margin-bottom:20px">
 
                 <div style="border-bottom:1px solid #f2f3f5;padding:20px 30px">
 
@@ -104,7 +104,7 @@ if (isset($_POST['lostEmail'])) {
                 <tbody>
                 <tr width=\"100%\" height=\"60\">
                     <td valign=\"top\" align=\"left\"
-                        style=\"border-top-left-radius:4px;border-top-right-radius:4px; padding:10px 18px;text-align:center;background-color: #9C0001\">
+                        style=\"border-top-left-radius:4px;border-top-right-radius:4px; padding:10px 18px;text-align:center;background-color: #FF6900\">
                         <img  width=\"125\"
                               src=\"https://fusionwings.pe/assets/img/navbar/logo.png\"
                               title=\"Fusion Wings\" style=\"font-weight:bold;font-size:18px;color:#fff;vertical-align:top\"
@@ -120,11 +120,11 @@ if (isset($_POST['lostEmail'])) {
 
                         <div style=\"background:#f6f7f8;border-radius:3px\"><br>
 
-                            <p style=\"text-align:center;color: #9C0001\">'.$url.'</p>
+                            <p style=\"text-align:center;color: #FF6900\">'.$url.'</p>
 
                             <p style=\"font:15px/1.25em \'Helvetica Neue\',Arial,Helvetica;margin-bottom:0;text-align:center\">
                                 <a href=\"'.$url.'\"
-                                   style=\"border-radius:3px;background:#9C0001;color:#fff;display:block;font-weight:700;font-size:16px;line-height:1.25em;margin:24px auto 6px;padding:10px 18px;text-decoration:none;width:180px\"
+                                   style=\"border-radius:3px;background:#FF6900;color:#fff;display:block;font-weight:700;font-size:16px;line-height:1.25em;margin:24px auto 6px;padding:10px 18px;text-decoration:none;width:180px\"
                                    target=\"_blank\">Reestablecer Contraseña</a></p>
 
                             <br><br></div>

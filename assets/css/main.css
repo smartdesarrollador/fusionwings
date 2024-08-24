@@ -10,7 +10,7 @@
 .titulo {
   text-align: center;
   font-size: 40px;
-  color: #9c0001;
+  color: #ff6900;
   font-weight: bold;
   font-family: "Oswald";
 }
@@ -87,11 +87,11 @@ span.buttonText {
 /* END  GOOGLE BUTTON*/
 
 .text-fusionwings {
-  color: #9c0001 !important;
+  color: #ff6900 !important;
 }
 
 .text-fusionwingsNotImportant {
-  color: #9c0001;
+  color: #ff6900;
 }
 
 .modal {
@@ -156,7 +156,7 @@ span.buttonText {
   margin-top: 20px;
   margin-bottom: 10px;
   background-color: #fff;
-  border: 1px solid #9c0001;
+  border: 1px solid #ff6900;
   border-radius: 5px;
   padding: 10px;
   font-size: 20px;
@@ -170,13 +170,13 @@ span.buttonText {
 }
 
 input:checked + label {
-  background-color: #9c0001 !important;
+  background-color: #ff6900 !important;
   color: white;
 }
 
 input:checked + label:after {
   font-family: FontAwesome;
-  background-color: #9c0001 !important;
+  background-color: #ff6900 !important;
   color: white;
   content: "\f00c";
 }

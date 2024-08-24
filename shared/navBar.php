@@ -180,7 +180,7 @@ $loginUrl = $helper->getLoginUrl($redirectURL, $permissions);
 </div>
 <div class="fixed-top animated fadeIn faster">
 
-    <nav class="navbar  navbar-expand-lg navbar-dark bg-transparent p-0">
+    <nav class="navbar  navbar-expand-lg navbar-dark  p-0">
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03"
                 aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">

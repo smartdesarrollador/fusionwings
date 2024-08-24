@@ -152,7 +152,7 @@ if ($_SESSION['envio'] == 'recojo' || $_SESSION['solo_gift_cards'] == 'true') {
         Culqi.options({
             style: {
                 logo: 'https://fusionwings.pe/assets/img/navbar/logo.png',
-                maincolor: '#9C0001',
+                maincolor: '#FF6900',
                 buttontext: '#ffffff',
                 maintext: '#4A4A4A',
                 desctext: '#4A4A4A'
@@ -196,7 +196,7 @@ if ($_SESSION['envio'] == 'recojo' || $_SESSION['solo_gift_cards'] == 'true') {
         Culqi.options({
             style: {
                 logo: 'https://fusionwings.pe/assets/img/navbar/logo.png',
-                maincolor: '#9C0001',
+                maincolor: '#FF6900',
                 buttontext: '#ffffff',
                 maintext: '#4A4A4A',
                 desctext: '#4A4A4A'

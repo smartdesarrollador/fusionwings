@@ -18,7 +18,7 @@ error_reporting(0);
         .buybutton {
             width: 139px;
             color: #fff !important;
-            background: #9C0001;
+            background: #FF6900;
             border-radius: 10px;
             font-family: "Oswald";
             font-size: 31px;

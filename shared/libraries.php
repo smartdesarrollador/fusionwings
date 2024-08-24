@@ -17,7 +17,7 @@
 <link rel="stylesheet" href="assets/css/loading.css">
 
 <meta name="robots" content="index, follow">
-<meta name="theme-color" content="#9c0001">
+<meta name="theme-color" content="#FF6900">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="Spanish">
 <meta name="author" content="fusionwings perú">

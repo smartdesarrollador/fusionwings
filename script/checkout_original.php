@@ -240,7 +240,7 @@ try {
                 $mensaje = '<div>
     <div style="background-color:#f2f3f5;padding:20px">
         <div style="max-width:600px;margin:0 auto">
-            <div style="background:#fff;font:14px sans-serif;color:#686f7a;border-top:4px solid #9C0001;margin-bottom:20px">
+            <div style="background:#fff;font:14px sans-serif;color:#686f7a;border-top:4px solid #FF6900;margin-bottom:20px">
 
                 <div style="border-bottom:1px solid #f2f3f5;padding:20px 30px">
 
@@ -338,7 +338,7 @@ try {
                 $mensaje = '<div>
     <div style="background-color:#f2f3f5;padding:20px">
         <div style="max-width:600px;margin:0 auto">
-            <div style="background:#fff;font:14px sans-serif;color:#686f7a;border-top:4px solid #9C0001;margin-bottom:20px">
+            <div style="background:#fff;font:14px sans-serif;color:#686f7a;border-top:4px solid #FF6900;margin-bottom:20px">
 
                 <div style="border-bottom:1px solid #f2f3f5;padding:20px 30px">
 

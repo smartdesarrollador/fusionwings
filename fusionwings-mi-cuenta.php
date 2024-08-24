@@ -26,7 +26,7 @@ if (isset($_SESSION['current_customer_idCliente'], $_SESSION['current_customer_e
     <script src="node_modules/viewerjs/dist/viewer.min.js"></script>
     <style>
         .card-fusionwings {
-            border: 1px solid #9C0001 !important;
+            border: 1px solid #FF6900 !important;
         }
     </style>
 </head>

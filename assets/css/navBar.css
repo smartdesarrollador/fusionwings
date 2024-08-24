@@ -1,153 +1,143 @@
 nav {
-    width: 100%;
-    background-image: url(../../assets/img/navbar/franja.jpg) !important;
+  width: 100%;
+  /* background-image: url(../../assets/img/navbar/franja.jpg) !important; */
+  background: #ff6900 !important;
 
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
-nav .navbar-nav{
-    font-size: 24px !important;
+nav .navbar-nav {
+  font-size: 24px !important;
 }
- nav ul li a:not(.dropDrown-link) {
-    color: #fff ;
-    padding: 15px ;
+nav ul li a:not(.dropDrown-link) {
+  color: #fff;
+  padding: 15px;
 }
-.navbar-toggler{
-    font-size: 22px;
+.navbar-toggler {
+  font-size: 22px;
 }
 
 nav .boton {
-    color: #9C0001 !important;
-    background: #EEEE16;
-    border-radius: 10px;
-    font-family: "Oswald";
-    font-size: 20px !important;
-    font-weight: bold;
-    margin-left: 16px;
-    cursor: pointer;
-    border: transparent;
+  color: #ff6900 !important;
+  background: #eeee16;
+  border-radius: 10px;
+  font-family: "Oswald";
+  font-size: 20px !important;
+  font-weight: bold;
+  margin-left: 16px;
+  cursor: pointer;
+  border: transparent;
 }
 
-
-
-
-
-#login-modal input[type=text], input[type=password], input[type=number], input[type=email] {
-    margin-top: 10px;
+#login-modal input[type="text"],
+input[type="password"],
+input[type="number"],
+input[type="email"] {
+  margin-top: 10px;
 }
 
 #div-login-msg,
 #div-lost-msg,
 #div-register-msg {
-    height: 30px;
-    line-height: 28px;
-    transition: all ease-in-out 500ms;
+  height: 30px;
+  line-height: 28px;
+  transition: all ease-in-out 500ms;
 }
 
 #div-login-msg.success,
 #div-lost-msg.success,
 #div-register-msg.success {
-    background-color: #c8f7c5;
+  background-color: #c8f7c5;
 }
 
 #div-login-msg.error,
 #div-lost-msg.error,
 #div-register-msg.error {
-    border: 1px solid #eb575b;
-    background-color: #ffcad1;
+  border: 1px solid #eb575b;
+  background-color: #ffcad1;
 }
 
 #icon-login-msg,
 #icon-lost-msg,
 #icon-register-msg {
-    width: 30px;
-    float: left;
-    line-height: 28px;
-    text-align: center;
-    background-color: #dadfe1;
-    margin-right: 5px;
-    transition: all ease-in-out 500ms;
+  width: 30px;
+  float: left;
+  line-height: 28px;
+  text-align: center;
+  background-color: #dadfe1;
+  margin-right: 5px;
+  transition: all ease-in-out 500ms;
 }
 
 #icon-login-msg.success,
 #icon-lost-msg.success,
 #icon-register-msg.success {
-    background-color: #68c3a3 !important;
+  background-color: #68c3a3 !important;
 }
 
 #icon-login-msg.error,
 #icon-lost-msg.error,
 #icon-register-msg.error {
-    background-color: #eb575b !important;
+  background-color: #eb575b !important;
 }
 
 #img_logo {
-
-    margin-top: -82px;
-    margin-left: 27%;
-    /* text-align: center; */
+  margin-top: -82px;
+  margin-left: 27%;
+  /* text-align: center; */
 }
 
 /* #########################################
    #    override the bootstrap configs     #
    ######################################### */
 
-
 .modal-backdrop.in {
-    filter: alpha(opacity=50);
-    opacity: .80;
+  filter: alpha(opacity=50);
+  opacity: 0.8;
 }
 
-
-
 .modal-header {
-    min-height: 16.43px;
-    border-bottom: 0px;
+  min-height: 16.43px;
+  border-bottom: 0px;
 }
 
 .modal-body {
-    position: relative;
+  position: relative;
 }
 
 .modal-footer {
-    text-align: left;
-    border-top: 0px;
+  text-align: left;
+  border-top: 0px;
 }
 
 .checkbox {
-    margin-bottom: 0px;
+  margin-bottom: 0px;
 }
 
-
-
-
-
-
 .glyphicon {
-    top: 0px;
+  top: 0px;
 }
 
 .form-control {
-    border-radius: 0px;
-    border: 1px solid rgb(156, 0, 1) !important;
+  border-radius: 0px;
+  border: 1px solid #ff6900 !important;
 }
-
 
 @media screen and (max-width: 400px) {
-
-    #img_logo{
-        margin-left: 12% !important;
-    }
+  #img_logo {
+    margin-left: 12% !important;
+  }
 }
 .logoNavBar {
-    width: 140px;
+  width: 140px;
 }
 
 .logoNavBarMin {
-    width: 80px;
+  width: 80px;
 }
-#imgBrand,nav{
-    transition: all 0.7s;
-    -moz-transition: all 1s; /* Firefox 4 */
-    -webkit-transition: all 1s; /* Safari and Chrome */
-    -o-transition: all 1s; /* Opera */
+#imgBrand,
+nav {
+  transition: all 0.7s;
+  -moz-transition: all 1s; /* Firefox 4 */
+  -webkit-transition: all 1s; /* Safari and Chrome */
+  -o-transition: all 1s; /* Opera */
 }
