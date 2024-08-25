@@ -139,7 +139,7 @@ if (isset($_SESSION['deliveryZoneId'])) {
                                 ?>
 
 
-                                    <div class="row">
+                                    <!-- <div class="row">
                                         <div class="col">
                                             <h5>Tu lugar de despacho es:</h5>
                                         </div>
@@ -154,7 +154,7 @@ if (isset($_SESSION['deliveryZoneId'])) {
                                             </ul>
 
                                         </div>
-                                    </div>
+                                    </div> -->
                                 <?php
                                 }
                                 ?>
@@ -171,7 +171,7 @@ if (isset($_SESSION['deliveryZoneId'])) {
                                         <label for="storeSelectorDelivery" class="ingrediente-button w-100 align-self-end mt-auto text-center">Delivery
                                         </label>
                                     </div>
-                                    <div class="col">
+                                    <div class="col d-none">
                                         <input onclick="selectShippinMethodClick(this)" value="RECOJO" name="tipoReparto" class="d-none" type="radio" id="storeSelectorRecojo">
                                         <label for="storeSelectorRecojo" class="ingrediente-button w-100 align-self-end mt-auto text-center">Recojo
                                             en tienda

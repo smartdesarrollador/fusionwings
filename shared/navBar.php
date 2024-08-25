@@ -42,7 +42,7 @@ $loginUrl = $helper->getLoginUrl($redirectURL, $permissions);
         <div class="modal-content p-4">
 
             <div class="modal-header" align="center">
-                <img id="img_logo" src="assets/img/navbar/logonegro.png" width="200">
+                <img id="img_logo" src="assets/img/navbar/logonegro.png" width="150">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <i class="fa fa-times" aria-hidden="true"></i>
                 </button>
